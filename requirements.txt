@@ -1,4 +1,6 @@
 influxdb
 influxdb-client
+libscrc
 paho-mqtt
+pydantic-settings
 requests
