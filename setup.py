@@ -11,7 +11,7 @@ setup(
     author_email='alfredocdmiranda@gmail.com',
     license='',
     packages=['imgrott'],
-    entry_points = {
-        'console_scripts': ['imgrott=imgrott.server:main'],
+    entry_points={
+        'console_scripts': ['imgrott=imgrott.main:main'],
     }
 )
