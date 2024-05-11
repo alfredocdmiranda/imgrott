@@ -1,8 +1,9 @@
 import logging
+from itertools import cycle
 
 import libscrc
 
-from imgrott.constants import HEADER_BYTES_SLICE, MSG_TYPE_SLICE, PROTOCOL_MSG_SLICE
+from imgrott.constants import HEADER_BYTES_SLICE, MSG_TYPE_SLICE, PROTOCOL_MSG_SLICE, GROWATT_MASK_LEN, GROWATT_MASK_HEX
 from imgrott.enums import ProtocolMessage, MessageType
 from imgrott.exceptions import (
     InvalidCRCException,

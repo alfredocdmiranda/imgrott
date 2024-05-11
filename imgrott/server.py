@@ -1,18 +1,7 @@
-import argparse
-import codecs
-import glob
-import json
-import os
-from datetime import datetime
-from enum import Enum
 import logging
 import select
 import socket
 import time
-from itertools import cycle
-from pathlib import Path
-
-import libscrc
 
 from imgrott.conf import Settings
 from imgrott.constants import (
@@ -135,7 +124,7 @@ class ImGrottOnlyForwardTCPServer(ImGrottBaseTCPServer):
             dest_addr = sock_forward.getpeername()[0]
             logging.info(
                 f"Forwarding data from {src_addr}[{self.connections[sock]["type"]}] "
-                f"to {dest_addr}[{self.connections[sock]["type"]}]"
+                f"to {dest_addr}[{self.connections[sock_forward]["type"]}]"
             )
             try:
                 sock_forward.sendall(data)
