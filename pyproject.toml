@@ -10,12 +10,12 @@ python = "^3.10"
 libscrc = "^1.8.1"
 pydantic-settings = "^2.2.1"
 
-[tool.poetry.scripts]
-imgrott = "imgrott.main:main"
-
 [tool.poetry.group.dev.dependencies]
 ruff = "^0.4.4"
 pre-commit = "^3.7.0"
+
+[tool.poetry.scripts]
+imgrott = "imgrott.main:main"
 
 [build-system]
 requires = ["poetry-core"]
