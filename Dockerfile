@@ -2,6 +2,7 @@ FROM python:3.12-slim
 
 ENV LANG en_US.UTF-8
 ENV LC_ALL en_US.UTF-8
+ENV POETRY_VIRTUALENVS_CREATE False
 
 WORKDIR /app
 # Run updates
