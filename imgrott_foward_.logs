@@ -1,0 +1,581 @@
+INFO:root:It will forward to "server.growatt.com" on port "5279"
+DEBUG:root:b'\x00\x1a\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xb4\x82'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x01\x00\x06\x00$\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGrosaa\xd7\xe4'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00\x01\x00\x06\x00%\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGrosauEq\x88'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x1a\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xb4\x82'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00\x03\x00\x06\x02A\x01\x03\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fI}Muatt;rnv\x18ttG\x16owFdtGH\xf7t\x893<v\\_w;55\x06rbw`ttF\x86oKaH\x01wr\x0bwattGrowattGrowatuG\x16owatTgR?!A=\x1a1\x17\x1d\x03\x04\x06Tgroc1vu@\x9aora\x7ftIr\x7fwBtrF\xbee\xbfs(`\x17s\xa3|\xcff(S"n\xbbj\xdaf\x1bf?p\xc2}\x96T$|\xe5aFtur]wStFG@oEaFtur]wStFN\x90ow&<5\x06BYBQTTvAnFattGa\xf3wS}\xc0N\x90g3ibtSrj~\x0e|\x88`bHgFdSWU\x7fPqttGrn\xcfa\x8b:gr\x909At\x8b\tRo\x88/TSNrox`t{Gsl\x9fat\x7f\xff~[wa52\x0cB-?/DE\rrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattG\x05\x85'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x03\x00\x06\x00\x03\x01\x03G\xc5['
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00\x01\x00\x06\x00%\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGrorauE\x8d\x89'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x01\x00\x06\x00&\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGroqavGu\x95#'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x01\x00\x06\x00%\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGropau,\x1bH'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x01\x00\x06\x00.\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGro\x7fa~,\x006Y4-7Lq1.?'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x01\x00\x06\x00(\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGro~ap,\x1f*7w\xef'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x01\x00\x06\x00%\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGro}auDYK'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x01\x00\x06\x00A\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGro|aiWdCVEOEB\x7f\\\\YRA[&\x02\x1fX\x19\x19\x18hQWGYEWc\xea'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x01\x00\x06\x003\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGro{a{,\x1f*7/9,,\x1f*7/9,,a\xfa'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x01\x00\x06\x00&\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGrozavEq\xf7\x86'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x01\x00\x06\x00$\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGrohak\xd7\x14'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00\x01\x00\x06\x00/\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGroya\x7fE~@AFWLZr\\^\x04\xe1'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x01\x00\x06\x00&\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGroxavLwey'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x01\x00\x06\x005\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGrogae6sHW6[D5}6\\MQ1N~A\x95t'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x01\x00\x06\x000\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGrofaxE~@AFWLZrBAC\xb8\xc6'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x01\x00\x06\x00(\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGroeapAuEV\xde\x94'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x01\x00\x06\x00$\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGrodat\x1c\x95'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x01\x00\x06\x008\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGroca`,\x1f*7/9,,\x1f*7/9,,\x1f*7/9\xc2\x8a'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x01\x00\x06\x00+\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGrobasGiCAGOA\x8c\x07'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00:\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIxquj\xccxsrnwa[\xedC.o\x05at[\xderowattGrowattGrowattGrowattGrowatti\xeb|\xfdh8tsroY\xb8ttGrowattGrowattN>owattGrowaQ\x0bGrfma\x8c\xb6\xc3rowPtt[\xffow|qtGr]waiqGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do}attGr\x1bwavPGrowatvW|-wa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds$z!Grmwa?tGrowattGrowattG\r\x80'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00:\x00\x06\x00\x03\x01\x04G\x8b\x9a'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00\x01\x00\x06\x007\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGrohagFwCXZQCYwCOERNA~HZN\x13\xef'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x01\x00\x06\x007\x01\x18\x1f5+A"87\x7fD,wattGrowattGrowattGrohagFw@[ZQAYvCOFUNEpH_Ok\xff'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00\x01\x00\x06\x00\'\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGro;awYqKxT'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x01\x00\x06\x00#\x01\x18\x1f5+A"87\x7fD,wattGrowattGrowattGrohai\x1f'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00]\x00\x06\x02A\x01P\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fI}Muj\xccxsrnwa[\xa3C/o\x05at[\x90rowattGrowattGrowattGrowattGrowatti\x98|\xf0h;ttroY\x9cttGrowattGrowattN=owattGrowaQ\xcbGrf\\a\x8c\xb5\xb1rowPtt[\xffow|ptGr^waipGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8doEattGr\x1bwavPGrowatvW|*wa:TG<owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz-Grmwa:tGrowattGrowattG\xdf\xd0'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00]\x00\x06\x00\x03\x01PG\x85\xe3'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00:\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIc}w\xa9ttG\xf6owh>tGrowattGro^attGrowa\x8b\x8b\x9d\xf0owattGrowaQ\xbaGrowattG\x8d\x90\x8cmttGrowat\x8b\xb8\x8eNwattGrow\x9e\x8b\xae\xc5roR\xaf\x8b\x8b\xbc~\x90\x88\x9dUtGs\x9bwattGrowattGro\x1e^ttN\xc5owq\xe2tG~\xb5wattGr\x1d\x80ati7rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\xf1\xfb'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00:\x00\x06\x00\x03\x01 G\x8b\x81'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00;\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIcTuj\xccxsrnwa[\xbaCGo\x01at[\x89rowattGrowattGrowattGrowattGrowatti\xa9|\xf0h:tsroY\x8bttGrowattGrowattN<owattGrowaQ(Grf\x08a\x8c\xb7GrowPtt[\xffow|qtGr]waiqGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\x19attGr\x1bwavQGrowatvW|+wa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds$z Grmwa?tGrowattGrowattG6\xae'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00;\x00\x06\x00\x03\x01\x04GG['
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00;\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fI`ow\xa9ttG\xf6owh2tGrowattGro]attGrowa\x8b\x8b\x9d\x0bowattGrowaQ\x84GrowattG\x8d\x90\x8c\x01ttGrowat\x8b\xb8\x8eNwattGrow\x9e\x8b\xae>roR\x91\x8b\x8b\xbc\x12\x90\x88\x9dUtGs\x9bwattGrowattGro\x1e^ttN\xc5owq\xe2tG~\xb5wattGr\x1d\x80ati7rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\xdb\xd0'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00;\x00\x06\x00\x03\x01 GG@'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00<\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fI`\\uj\xccxsrnwa[\xc8CGo\x02at[\xfbrowattGrowattGrowattGrowattGrowatti\xb5|\xfdh<tsroY\x80ttGrowattGrowattN:owattGrowaQ\xfdGrfIa\x8c\xb7<rowPtt[\xffow|qtGr]waiqGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\xf5attGr\x1bwavQGrowatvW|Swa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds$z9Grmwa?tGrowattGrowattG\xe6-'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00<\x00\x06\x00\x03\x01\x04G\xa1\x1a'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00<\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fI`Zw\xa9ttG\xf6owh6tGrowattGro^attGrowa\x8b\x8b\x9d\xecowattGrowaQ\xc8GrowattG\x8d\x90\x8d\xadttGrowat\x8b\xb8\x8eNwattGrow\x9e\x8b\xae\xd9roR\xdd\x8b\x8b\xbd\xbe\x90\x88\x9dUtGs\x9bwattGrowattGro\x1e^ttN\xc5owq\xe2tG~\xb5wattGr\x1d\x80ati7rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\x98\xa0'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00<\x00\x06\x00\x03\x01 G\xa1\x01'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00\x1b\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr$\x9e'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x1b\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr$\x9e'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00=\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIaCuj\xccxsrnwa[\xd7C.o\x05at[\xe4rowattGrowattGrowattGrowattGrowatti\xc3|\xfah<ttroY\xa2ttGrowattGrowattN:owattGrowaQ\x8fGrg\xc1a\x8c\xb7\xb3rowPtt[\xffow|qtGr]waiqGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\xfbattGr\x19wavQGrowatvV|Twa:TG<owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds$z>Grmwa?tGrowattGrowattG=\xb6'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00=\x00\x06\x00\x03\x01\x04Gm\xdb'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00=\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIaAw\xa9ttG\xf6owh5tGrowattGro]attGrowa\x8b\x8b\x9e\x88owattGrowaRYGrowattG\x8d\x90\x8d\x8dttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xad\xbdroQL\x8b\x8b\xbd\x9e\x90\x88\x9dTtGs\x9bwattGrowattGro\x1e^ttN\xcaowq\xe2tG~\xb5wattGr\x1d\x80ati7rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrAL'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00=\x00\x06\x00\x03\x01 Gm\xc0'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00>\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIfKuj\xccxsrnwa[\xcbC.o\x06at[\xf8rowattGrowattGrowattGrowattGrowatti\xb9|\xfdh<tsroY\xbattGrowattGrowattN:owattGrowaRCGrg\xe3a\x8c\xb0)rowStt[\xfcow|rtGr\\wairGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\xbfattGr\x1bwavQGrowatvV|Twa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz<Grmwa:tGrowattGrowattG\xb4o'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00>\x00\x06\x00\x03\x01\x04Gx\x9b'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00>\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIfHw\xa9ttG\xf6owh5tGrowattGro]attGrowa\x8b\x8b\x9e\x91owattGrowaR[GrowattG\x8d\x90\x8c$ttGrowat\x8b\xb8\x8eNwattGrow\x9e\x8b\xad\xa4roQN\x8b\x8b\xbc7\x90\x88\x9dUtGs\x9bwattGrowattGro\x1e^ttN\xcaowq\xe2tG~\xb5wattGr\x1d\x80ati7rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\x8e\xc3'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00>\x00\x06\x00\x03\x01 Gx\x80'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00?\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIgruj\xccxsrnwa[\x19C.o\x07at[*rowattGrowattGrowattGrowattGrowatti\x06|\xf0h>tsroY\xfbttGrowattGrowattN8owattGrowaQ[Grf2a\x8c\xb0\xa1rowStt[\xfcow|rtGr\\wairGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8dnAattGr\x1bwavQGrowatvV|Qwa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz$Grmwa:tGrowattGrowattGT\xae'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00?\x00\x06\x00\x03\x01\x04G\xb4Z'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00?\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIgOw\xa9ttG\xf6owh0tGrowattGro^attGrowa\x8b\x8b\x9d\xc5owattGrowaQ.GrowattG\x8d\x90\x8c\x98ttGrowat\x8b\xb8\x8eNwattGrow\x9e\x8b\xae\xf0roR;\x8b\x8b\xbc\x8b\x90\x88\x9dUtGs\x9bwattGrowattGro\x1e^ttN\xcaowq\xe2tG~\xb5wattGr\x1d\x80ati7rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\xc2\x1e'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00?\x00\x06\x00\x03\x01 G\xb4A'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00\x1c\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x14\xcf'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x1c\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x14\xcf'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00@\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIdyuj\xccxsrnwa[\xdaC.o\x06at[\xe9rowattGrowattGrowattGrowattGrowatti\xc8|\xfeh<tsroY\xa9ttGrowattGrowattN:owattGrowaQ\xf4GrfMa\x8c\xb1\x18rowStt[\xfcow|rtGr\\wairGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\'attGr\x1bwavQGrowatvV|Swa:TG<owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz?Grmwa:tGrowattGrowattG6\xbe'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00@\x00\x06\x00\x03\x01\x04G\xd0\x1d'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00@\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIdvw\xa9ttG\xf6owh7tGrowattGro]attGrowa\x8b\x8b\x9d\x01owattGrowaQ\xbaGrowattG\x8d\x90\x8c+ttGrowat\x8b\xb8\x8eMwattGrow\x9e\x8b\xae4roR\xaf\x8b\x8b\xbc8\x90\x88\x9dVtGs\x9bwattGrowattGro\x1e^ttN\xcaowq\xe2tG~\xb5wattGr\x1d\x8fati7rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr|\x0f'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00@\x00\x06\x00\x03\x01 G\xd0\x06'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00A\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIeauj\xccxsrnwa[\xdeC.o\x06at[\xedrowattGrowattGrowattGrowattGrowatti\xc4|\xf0h?tsroY\xadttGrowattGrowattN9owattGrowaP\x7fGre\xdca\x8c\xb1\x93rowStt[\xfcow|rtGr\\wairGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do}attGr\x1bwavQGrowatvV|Qwa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz?Grmwa:tGrowattGrowattG\xd7?'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00A\x00\x06\x00\x03\x01\x04G\x1c\xdc'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00A\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIe\x7fw\xa9ttG\xf6owhJtGrowattGroPattGrowa\x8b\x8b\x9c\x95owattGrowaV\xafGrowattG\x8d\x90\x8d\x8fttGrowat\x8b\xb8\x8eMwattGrow\x9e\x8b\xaf\xa0roU\xba\x8b\x8b\xbd\x9c\x90\x88\x9dVtGs\x9bwattGrowattGro\x1e^ttN\xcaowq\xe2tG~\xb5wattGr\x1d\x8fati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\xe8m'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00A\x00\x06\x00\x03\x01 G\x1c\xc7'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00B\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIjhuj\xccxsrnwaZ\x97Cio\x01atZ\xa4rowattGrowattGrowattGrowattGrowattj\x81|\xf0h>ttroY\'ttGrowattGrowattN8owattGrowaQ\x15Grg\xe5a\x8c\xb2\trowStt[\xfcow|rtGr\\wairGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do_attGr\x1bwavQGrowatvV|Qwa:TG<owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds$z9Grmwa?tGrowattGrowattGB\xce'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00B\x00\x06\x00\x03\x01\x04G\t\x9c'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00B\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIjfw\xa9ttG\xf6owh5tGrowattGro]attGrowa\x8b\x8b\x9d\xb5owattGrowaQ\x0fGrowattG\x8d\x90\x8bkttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xae\x80roR\x1a\x8b\x8b\xbbx\x90\x88\x9dTtGs\x9bwattGrowattGro\x1e^ttN\xcaowq\xe2tG~\xb5wattGr\x1d\x8fati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\x0bI'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00B\x00\x06\x00\x03\x01 G\t\x87'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00\x1d\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x84\xd3'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x1d\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x84\xd3'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00C\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIkouj\xccxsrnwaZ\xb6C\x12o\x05atZ\x85rowattGrowattGrowattGrowattGrowattj\xce|\xf2h?tsroXjttGrowattGrowattN9owattGrowaQ\x0bGrgJa\x8c\xb2\xffrowRtt[\xfdow|stGr[waisGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8dowattGr\x1bwavQGrowatvU|Pwa:TG?owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz$Grmwa:tGrowattGrowattGcQ'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00C\x00\x06\x00\x03\x01\x04G\xc5]'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00C\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIkkw\xa9ttG\xf6owh6tGrowattGro^attGrowa\x8b\x8b\x9d-owattGrowaP\xe4GrowattG\x8d\x90\x8c\xe6ttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xae\x18roS\xf1\x8b\x8b\xbc\xf5\x90\x88\x9dTtGs\x9cwattGrowattGro\x1e^ttN\xcaowq\xe2tG~\xb5wattGr\x1d\x8fati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr2\x86'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00C\x00\x06\x00\x03\x01 G\xc5F'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00D\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIk[uj\xccxsrnwa[\xccCDo\x01at[\xffrowattGrowattGrowattGrowattGrowatti\xb1|\xffh>tsroY\xb7ttGrowattGrowattN8owattGrowaQ\x0fGrf?a\x8c\xb3hrowRtt[\xfdow|stGr[waisGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\'attGr\x1bwavRGrowatvU|Qwa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds$z:Grmwa?tGrowattGrowattG\xd5|'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00D\x00\x06\x00\x03\x01\x04G#\x1c'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00D\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIkUw\xa9ttG\xf6owh5tGrowattGro]attGrowa\x8b\x8b\x9d\xfbowattGrowaQ\xc8GrowattG\x8d\x90\x8cVttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xae\xceroR\xdd\x8b\x8b\xbcE\x90\x88\x9dTtGs\x9bwattGrowattGro\x1e^ttN\xcbowq\xe2tG~\xb5wattGr\x1d\x8fati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrT\x08'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00D\x00\x06\x00\x03\x01 G#\x07'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00E\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIhCuj\xccxsrnwa[\xa1C.o\x03at[\x92rowattGrowattGrowattGrowattGrowatti\x93|\xfch>tsroXxttGrowattGrowattN8owattGrowaQ\xf9Grf#a\x8c\xb3\xedrowRtt[\xfdow|stGr[waisGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8doEattGr\x1bwavRGrowatvU|Rwa:TG"owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz:Grmwa:tGrowattGrowattGLw'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00E\x00\x06\x00\x03\x01\x04G\xef\xdd'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00E\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIh]w\xa9ttG\xf6owh4tGrowattGro^attGrowa\x8b\x8b\x9dVowattGrowaP\x19GrowattG\x8d\x90\x8c\x9attGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xaecroS\x0c\x8b\x8b\xbc\x89\x90\x88\x9dTtGs\x9bwattGrowattGro\x1e^ttN\xcbowq\xe2tG~\xb5wattGr\x1d\x8fati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrQ\xf6'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00E\x00\x06\x00\x03\x01 G\xef\xc6'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00\x1e\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGrt\xf4'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x1e\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGrt\xf4'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00F\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIiJuj\xccxsrnwa[\xafC.o\x05at[\x9crowattGrowattGrowattGrowattGrowatti\x94|\xf0h1tsroY\x90ttGrowattGrowattN7owattGrowaQ\xa1Grffa\x8c\xbcurowRtt[\xfdow|stGr[waisGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8dowattGr\x1bwavRGrowatvU|Xwa:TG"owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz>Grmwa:tGrowattGrowattG\x8f\x81'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00F\x00\x06\x00\x03\x01\x04G\xfa\x9d'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00F\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIiFw\xa9ttG\xf6owhJtGrowattGro]attGrowa\x8b\x8b\x9d\x19owattGrowaQ\x83GrowattG\x8d\x90\x8c\x1fttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xae,roR\x96\x8b\x8b\xbc\x0c\x90\x88\x9dTtGs\x9bwattGrowattGro\x1e^ttN\xcbowq\xe2tG~\xb5wattGr\x1d\x8fati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrj\x06'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00F\x00\x06\x00\x03\x01 G\xfa\x86'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00G\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fInquj\xccxsrnwa[\x10CGo\x02at[#rowattGrowattGrowattGrowattGrowatti\x03|\xffh=ttroY\x1bttGrowattGrowattN;owattGrowaP\xbaGrf\xd4a\x8c\xbc\xe1rowRtt[\xfdow|stGr[waisGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\x0fattGr\x1bwavRGrowatvU|Rwa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds$z:Grmwa?tGrowattGrowattG\xe3\xc3'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00G\x00\x06\x00\x03\x01\x04G6\\'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00G\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fInOw\xa9ttG\xf6owh6tGrowattGro]attGrowa\x8b\x8b\x9d<owattGrowaQ\xfaGrowattG\x8d\x90\x8c\x10ttGrowat\x8b\xb8\x8epwattGrow\x9e\x8b\xae\troR\xef\x8b\x8b\xbc\x03\x90\x88\x9dktGs\x9cwattGrowattGro\x1e^ttN\xcbowq\xe2tG~\xb5wattGr\x1d\x8eati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\xb2%'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00G\x00\x06\x00\x03\x01 G6G'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00H\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIoxuj\xccxsrnwa[\xe0C.o\x02at[\xd3rowattGrowattGrowattGrowattGrowatti\xd0|\xf2h<ttroY\xdattGrowattGrowattN:owattGrowaQ\xc7Grg\x98a\x8c\xbdZrowUtt[\xe2ow||tGrZwai|GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\'attGr\x1bwavRGrowatvU|Rwa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds$z9Grmwa?tGrowattGrowattG\x9bs'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00H\x00\x06\x00\x03\x01\x04Gv\x1c'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00H\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIoww\xa9ttG\xf6owh6tGrowattGro]attGrowa\x8b\x8b\x9dOowattGrowaQ\xa5GrowattG\x8d\x90\x8c\xf8ttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xaezroR\xb0\x8b\x8b\xbc\xeb\x90\x88\x9dTtGs\x9bwattGrowattGro\x1e^ttN\xcbowq\xe2tG~\xb5wattGr\x1d\x8eati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\xa5`'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00H\x00\x06\x00\x03\x01 Gv\x07'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00\x1f\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xe4\xe8'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\x1f\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xe4\xe8'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00I\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIl\x7fuj\xccxsrnwa[ CFo\x01at[\x13rowattGrowattGrowattGrowattGrowatti)|\xfbh=tsroY\xdfttGrowattGrowattN;owattGrowaQ\xc8Grg\xe8a\x8c\xbd\xd2rowUtt[\xe2ow||tGrZwai|GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\xd7attGr\x1bwavRGrowatvU|Swa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds$z9Grmwa?tGrowattGrowattG\xc4\x89'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00I\x00\x06\x00\x03\x01\x04G\xba\xdd'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00I\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIl~w\xa9ttG\xf6owh5tGrowattGro]attGrowa\x8b\x8b\x9e\x80owattGrowaRUGrowattG\x8d\x90\x8c\xe5ttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xad\xb5roQ@\x8b\x8b\xbc\xf6\x90\x88\x9dTtGs\x9bwattGrowattGro\x1e^ttN\xcbowq\xe2tG~\xb5wattGr\x1d\x8eati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrJ\x8e'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00I\x00\x06\x00\x03\x01 G\xba\xc6'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00J\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fImfuj\xccxsrnwaZ\x14C\xf6o\x05atZ\'rowattGrowattGrowattGrowattGrowattj\x04|\xfdh=ttroZ\x16ttGrowattGrowattN;owattGrowaP\xd2Grg\xa7a\x8c\xbeHrowUtt[\xe2ow||tGrZwai|GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do_attGr\x1bwavRGrowatvU|Swa:TG?owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz$Grmwa:tGrowattGrowattG\xbf\xe2'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00J\x00\x06\x00\x03\x01\x04G\xaf\x9d'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00J\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fImdw\xa9ttG\xf6owh0tGrowattGro]attGrowa\x8b\x8b\x9e\x81owattGrowaRQGrowattG\x8d\x90\x8b\x00ttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xad\xb4roQD\x8b\x8b\xbb\x13\x90\x88\x9dTtGs\x9bwattGrowattGro\x1e^ttN\xc8owq\xe2tG~\xb5wattGr\x1d\x8eati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\x1d]'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00J\x00\x06\x00\x03\x01 G\xaf\x86'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00K\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIRmuj\xccxsrnwa[\xdcC4o\x02at[\xefrowattGrowattGrowattGrowattGrowatti\xc7|\xffh>ttroY\xc4ttGrowattGrowattN8owattGrowaQJGrf\x00a\x8c\xbe\xc0rowUtt[\xe2ow||tGrZwai|GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8dn7attGr\x1bwavRGrowatvU|Rwa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz$Grmwa:tGrowattGrowattGF\xd5'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00K\x00\x06\x00\x03\x01\x04Gc\\'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00K\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIRkw\xa9ttG\xf6owh6tGrowattGro^attGrowa\x8b\x8b\x9d\xc6owattGrowaQ0GrowattG\x8d\x90\x8a)ttGrowat\x8b\xb8\x8etwattGrow\x9e\x8b\xae\xf3roR%\x8b\x8b\xba:\x90\x88\x9dotGs\x9bwattGrowattGro\x1e^ttN\xc8owq\xe2tG~\xb5wattGr\x1d\x8eati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\x11\xa3'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00K\x00\x06\x00\x03\x01 GcG'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00 \x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x162'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00 \x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x162'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00L\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIRXuj\xccxsrnwa[<C.o\x1cat[\x0frowattGrowattGrowattGrowattGrowatti\'|\xfeh8turoY\x0fttGrowattGrowattN>owattGrowaQFGrfTa\x8c\xbfFrowUtt[\xe2ow||tGrZwai|GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\x19attGr\x1bwavRGrowatvU|-wa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\xf4z%Grmwa%tGrowattGrowattG\xbd\xc6'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00L\x00\x06\x00\x03\x01\x04G\x85\x1d'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00L\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIRUw\xa9ttG\xf6owh1tGrowattGro^attGrowa\x8b\x8b\x9d\xc6owattGrowaQ\x0fGrowattG\x8d\x90\x8c\rttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xae\xf3roR\x1a\x8b\x8b\xbc\x1e\x90\x88\x9dTtGs\x9bwattGrowattGro\x1e^ttN\xc8owq\xe2tG~\xb5wattGr\x1d\x8eati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\xd4\xd3'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00L\x00\x06\x00\x03\x01 G\x85\x06'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00M\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIS_uj\xccxsrnwa[0C.o\x06at[\x03rowattGrowattGrowattGrowattGrowatti:|\xfeh=ttroY\x13ttGrowattGrowattN;owattGrowaQ\x97Grg\x12a\x8c\xbf2rowTtt[\xe3ow|}tGrYwai}GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\xbfattGr\x1bwavRGrowatvU|Swa:TG?owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz9Grmwa:tGrowattGrowattGQ\x01'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00M\x00\x06\x00\x03\x01\x04GI\xdc'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00M\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIS^w\xa9ttG\xf6owh6tGrowattGro]attGrowa\x8b\x8b\x9ddowattGrowaQ\x88GrowattG\x8d\x90\x8cdttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xaeQroR\x9d\x8b\x8b\xbcw\x90\x88\x9dTtGs\x9bwattGrowattGro\x1e^ttN\xc8owq\xe2tG~\xb5wattGr\x1d\x8dati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\x159'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00M\x00\x06\x00\x03\x01 GI\xc7'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00N\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIPFuj\xccxsrnwaY\x92C\x0co\x06atY\xa1rowattGrowattGrowattGrowattGrowattk\x89|\xfeh8tsroZrttGrowattGrowattN>owattGrowaP\xf1Grg\x01a\x8c\xbf\xb7rowTtt[\xe3ow|}tGrYwai}GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\x13attGr\x1bwavRGrowatvU|/wa:TG?owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds$z$Grmwa?tGrowattGrowattG\x81;'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00N\x00\x06\x00\x03\x01\x04G\\\x9c'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00N\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIPBw\xa9ttG\xf6owh1tGrowattGro]attGrowa\x8b\x8b\x9ddowattGrowaRbGrowattG\x8d\x90\x8cbttGrowat\x8b\xb8\x8eNwattGrow\x9e\x8b\xaeQroQw\x8b\x8b\xbcq\x90\x88\x9dUtGs\x9bwattGrowattGro\x1e^ttN\xc8owq\xe2tG~\xb5wattGr\x1d\x8dati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\xe3\xb8'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00N\x00\x06\x00\x03\x01 G\\\x87'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00!\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x86.'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00!\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x86.'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00O\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIQMuj\xccxsrnwa[\xf0CDo\x02at[\xc3rowattGrowattGrowattGrowattGrowatti\xe3|\xf0h;ttroY\xc1ttGrowattGrowattN=owattGrowaQ\x8eGrg\xe0a\x8c\xb8\x1drowTtt[\xe3ow|}tGrYwai}GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8dn\x83attGr\x1bwavRGrowatvU|+wa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds$z!Grmwa?tGrowattGrowattG\xb3\x90'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00O\x00\x06\x00\x03\x01\x04G\x90]'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00O\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIQHw\xa9ttG\xf6owh1tGrowattGro]attGrowa\x8b\x8b\x9d\xb0owattGrowaRRGrowattG\x8d\x90\x8c,ttGrowat\x8b\xb8\x8epwattGrow\x9e\x8b\xae\x85roQG\x8b\x8b\xbc?\x90\x88\x9dktGs\x9cwattGrowattGro\x1e^ttN\xc8owq\xe2tG~\xb5wattGr\x1d\x8dati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\xb2\x9c'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00O\x00\x06\x00\x03\x01 G\x90F'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00P\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIVsuj\xccxsrnwa[\x14C/o\x06at[\'rowattGrowattGrowattGrowattGrowatti\x1f|\xf2h>ttroY\x19ttGrowattGrowattN8owattGrowaQ\x82Grg\x00a\x8c\xb8\x93rowTtt[\xe3ow|}tGrYwai}GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\x19attGr\x1bwavRGrowatvU|/wa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz:Grmwa:tGrowattGrowattG(P'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00P\x00\x06\x00\x03\x01\x04G\xdc\x1c'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00P\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIVNw\xa9ttG\xf6owh7tGrowattGro]attGrowa\x8b\x8b\x9dQowattGrowaRtGrowattG\x8d\x90\x8c<ttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xaedroQa\x8b\x8b\xbc/\x90\x88\x9dTtGs\x9bwattGrowattGro\x1e^ttN\xc9owq\xe2tG~\xb5wattGr\x1d\x8dati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\xf3\t'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00P\x00\x06\x00\x03\x01 G\xdc\x07'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00Q\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIWzuj\xccxsrnwa[\xf2CEo\x02at[\xc1rowattGrowattGrowattGrowattGrowatti\xe1|\xffh8ttroY\xecttGrowattGrowattN>owattGrowaQ\x94Grg\xc4a\x8c\xb9\x15rowTtt[\xe3ow|}tGrYwai}GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\xd7attGr\x1bwavRGrowatvU|/wa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds$z&Grmwa?tGrowattGrowattG\xd7a'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00Q\x00\x06\x00\x03\x01\x04G\x10\xdd'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00Q\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIWqw\xa9ttG\xf6owh7tGrowattGro]attGrowa\x8b\x8b\x9dkowattGrowaRzGrowattG\x8d\x90\x8c\xc5ttGrowat\x8b\xb8\x8epwattGrow\x9e\x8b\xae^roQo\x8b\x8b\xbc\xd6\x90\x88\x9dktGs\x9cwattGrowattGro\x1e^ttN\xc9owq\xe2tG~\xb5wattGr\x1d\x8dati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrC\xd8'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00Q\x00\x06\x00\x03\x01 G\x10\xc6'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00"\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGrv\t'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00"\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGrv\t'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00R\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fITauj\xccxsrnwa[\x16CFo\x02at[%rowattGrowattGrowattGrowattGrowatti\x17|\xf3h8ttroY\xfbttGrowattGrowattN>owattGrowaRoGrg=a\x8c\xb9\x8browWtt[\xe0ow|~tGrXwai~GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8dowattGr\x1bwavRGrowatvU|\'wa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds$z&Grmwa?tGrowattGrowattG\xd8\xa4'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00R\x00\x06\x00\x03\x01\x04G\x05\x9d'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00R\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fITww\xa9ttG\xf6owh1tGrowattGro]attGrowa\x8b\x8b\x9d7owattGrowaRQGrowattG\x8d\x90\x8bdttGrowat\x8b\xb8\x8epwattGrow\x9e\x8b\xae\x02roQD\x8b\x8b\xbbw\x90\x88\x9dktGs\x9cwattGrowattGro\x1e^ttN\xc9owq\xe2tG~\xb5wattGr\x1d\x8dati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr2\xe7'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00R\x00\x06\x00\x03\x01 G\x05\x86'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00S\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIUhuj\xccxsrnwaZ)C\x7fo\x03atZ\x1arowattGrowattGrowattGrowattGrowattj\x02|\xf0h<ttroY\tttGrowattGrowattN:owattGrowaPNGrfAa\x8c\xba\x04rowWtt[\xe0ow|~tGrXwai~GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\x0fattGr\x1bwavRGrowatvU|Qwa:TG?owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz:Grmwa:tGrowattGrowattG\x06\xec'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00S\x00\x06\x00\x03\x01\x04G\xc9\\'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00S\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIUgw\xa9ttG\xf6owh6tGrowattGro^attGrowa\x8b\x8b\x9c\xb9owattGrowaP\x05GrowattG\x8d\x90\x8d\x90ttGrowat\x8b\xb8\x8eNwattGrow\x9e\x8b\xaf\x8croS\x10\x8b\x8b\xbd\x83\x90\x88\x9dUtGs\x9bwattGrowattGro\x1e^ttN\xc9owq\xe2tG~\xb5wattGr\x1d\x8cati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGro\x0e'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00S\x00\x06\x00\x03\x01 G\xc9G'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00T\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIZouj\xccxsrnwa[\x0bC8o\x02at[8rowattGrowattGrowattGrowattGrowatti\xf9|\xf3h=ttroY\xe0ttGrowattGrowattN;owattGrowaP\x87Grf\xefa\x8c\xba\xf9rowWtt[\xe0ow|~tGrXwai~GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do_attGr\x19wavRGrowatvU|Rwa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds$z:Grmwa?tGrowattGrowattG\xf1\xfb'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00T\x00\x06\x00\x03\x01\x04G/\x1d'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00T\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIZew\xa9ttG\xf6owh2tGrowattGro^attGrowa\x8b\x8b\x9d\x80owattGrowaQ$GrowattG\x8d\x90\x8c\xa2ttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xae\xb5roR1\x8b\x8b\xbc\xb1\x90\x88\x9dTtGs\x9cwattGrowattGro\x1e^ttN\xc9owq\xe2tG~\xb5wattGr\x1d\x8cati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\x81X'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00T\x00\x06\x00\x03\x01 G/\x06'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00#\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xe6\x15'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00#\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xe6\x15'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00U\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIZYuj\xccxsrnwaZ\x8cC\xf6o\x1catZ\xbfrowattGrowattGrowattGrowattGrowattid|\xfeh:turoZ\xd0ttGrowattGrowattN<owattGrowaPYGrf\x9ea\x8c\xbbqrowWtt[\xe0ow|~tGrXwai~GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\xf5attGr\x1bwavRGrowatvU|+wa:TG"owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz!Grmwa:tGrowattGrowattG\xd3\x03'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00U\x00\x06\x00\x03\x01\x04G\xe3\xdc'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00U\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIZYw\xa9ttG\xf6owh<tGrowattGro]attGrowa\x8b\x8b\x9d\nowattGrowaQ\xe2GrowattG\x8d\x90\x8bxttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xae?roR\xf7\x8b\x8b\xbbk\x90\x88\x9dTtGs\x9cwattGrowattGro\x1e^ttN\xc9owq\xe2tG~\xb5wattGr\x1d\x8cati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrG)'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00U\x00\x06\x00\x03\x01 G\xe3\xc7'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00V\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fI[@uj\xccxsrnwa[\xe7C.o\x06at[\xd4rowattGrowattGrowattGrowattGrowatti\xd0|\xfeh$ttroY\xc8ttGrowattGrowattN"owattGrowaP\xaeGrf\xbfa\x8c\xbb\xf7rowWtt[\xe0ow|~tGrXwai~GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8dowattGr\x1bwavRGrowatvT|)wa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds$z#Grmwa?tGrowattGrowattG\x97j'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00V\x00\x06\x00\x03\x01\x04G\xf6\x9c'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00V\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fI[_w\xa9ttG\xf6owh<tGrowattGro^attGrowa\x8b\x8b\x9cKowattGrowaP\x89GrowattG\x8d\x90\x8c&ttGrowat\x8b\xb8\x8eNwattGrow\x9e\x8b\xaf~roS\x9c\x8b\x8b\xbc5\x90\x88\x9dUtGs\x9bwattGrowattGro\x1e^ttN\xceowq\xe2tG~\xb5wattGr\x1d\x8cati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr9\xa9'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00V\x00\x06\x00\x03\x01 G\xf6\x87'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00W\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIXGuj\xccxsrnwa[\x1aC.o\x06at[)rowattGrowattGrowattGrowattGrowatti\r|\xffh8ttroY\xf5ttGrowattGrowattN>owattGrowaP\xb4Grf\xc8a\x8c\xa4mrowVtt[\xe1ow|\x7ftGrWwai\x7fGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do1attGr\x19wavRGrowatvT|.wa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz%Grmwa:tGrowattGrowattG\x0e\xfb'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00W\x00\x06\x00\x03\x01\x04G:]'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00W\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIXEw\xa9ttG\xf6owh0tGrowattGro_attGrowa\x8b\x8b\x9cHowattGrowaW\xe8GrowattG\x8d\x90\x8d\xa1ttGrowat\x8b\xb8\x8eNwattGrow\x9e\x8b\xaf}roT\xfd\x8b\x8b\xbd\xb2\x90\x88\x9dUtGs\x9bwattGrowattGro\x1e^ttN\xceowq\xe2tG~\xb5wattGr\x1d\x8cati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\nR'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00W\x00\x06\x00\x03\x01 G:F'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00$\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xd6D'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00$\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xd6D'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00X\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIYNuj\xccxsrnwaY\x80C\xf6o\x06atY\xb3rowattGrowattGrowattGrowattGrowattj{|\xffh?turoZtttGrowattGrowattN9owattGrowaWPGrf\x92a\x8c\xa4\xe4rowVtt[\xe1ow|\x7ftGrWwai\x7fGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8doEattGr\x1bwavRGrowatvT|Pwa:TG<owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz%Grmwa:tGrowattGrowattGL\x1e'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00X\x00\x06\x00\x03\x01\x04Gz\x1d'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00X\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIYKw\xa9ttG\xf6owh0tGrowattGro^attGrowa\x8b\x8b\x9c\xe0owattGrowaP\x93GrowattG\x8d\x90\x8c\xc2ttGrowat\x8b\xb8\x8eNwattGrow\x9e\x8b\xaf\xd5roS\x86\x8b\x8b\xbc\xd1\x90\x88\x9dUtGs\x9bwattGrowattGro\x1e^ttN\xceowq\xe2tG~\xb5wattGr\x1d\x8cati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\x81\xa5'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00X\x00\x06\x00\x03\x01 Gz\x06'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00Y\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fI^tuj\xccxsrnwa[\xf4C.o\x05at[\xc7rowattGrowattGrowattGrowattGrowatti\xfe|\xfch=ttroY\xfattGrowattGrowattN;owattGrowaQJGrf9a\x8c\xa5_rowVtt[\xe1ow|\x7ftGrWwai\x7fGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8docattGr\x1bwavRGrowatvT|Rwa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz$Grmwa:tGrowattGrowattGL\xe6'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00Y\x00\x06\x00\x03\x01\x04G\xb6\xdc'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00Y\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fI^rw\xa9ttG\xf6owh7tGrowattGro^attGrowa\x8b\x8b\x9crowattGrowaP\x86GrowattG\x8d\x90\x8c\x0ettGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xafGroS\x93\x8b\x8b\xbc\x1d\x90\x88\x9dTtGs\x9bwattGrowattGro\x1e^ttN\xceowq\xe2tG~\xb5wattGr\x1d\x8bati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\xcf\x9c'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00Y\x00\x06\x00\x03\x01 G\xb6\xc7'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00Z\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fI_{uj\xccxsrnwa[\x96C.o\x02at[\xa5rowattGrowattGrowattGrowattGrowatti\x82|\xfch<ttroY\x81ttGrowattGrowattN:owattGrowaP\xfcGre\x1fa\x8c\xa5\xd5rowVtt[\xe1ow|\x7ftGrWwai\x7fGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\'attGr\x1bwavRGrowatvT|Uwa:TG"owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds$z>Grmwa?tGrowattGrowattG\xe1\xe2'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00Z\x00\x06\x00\x03\x01\x04G\xa3\x9c'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00Z\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fI_yw\xa9ttG\xf6owhKtGrowattGro^attGrowa\x8b\x8b\x9c\xa6owattGrowaP\x08GrowattG\x8d\x90\x8c\x0cttGrowat\x8b\xb8\x8eNwattGrow\x9e\x8b\xaf\x93roS\x1d\x8b\x8b\xbc\x1f\x90\x88\x9dUtGs\x9bwattGrowattGro\x1e^ttN\xceowq\xe2tG~\xb5wattGr\x1d\x8bati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGro\xc7'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00Z\x00\x06\x00\x03\x01 G\xa3\x87'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00%\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGrFX'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00%\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGrFX'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00[\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fI\\buj\xccxsrnwa[\xacC.o\x01at[\x9frowattGrowattGrowattGrowattGrowatti\x90|\xffh0tsroY\x86ttGrowattGrowattN6owattGrowaW\xd8GrdAa\x8c\xa6KrowVtt[\xe1ow|\x7ftGrWwai\x7fGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\xabattGr\x19wavRGrowatvT|Ywa:TG"owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds$z3Grmwa?tGrowattGrowattG\xd3\x1d'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00[\x00\x06\x00\x03\x01\x04Go]'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00[\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fI\\vw\xa9ttG\xf6owhHtGrowattGro^attGrowa\x8b\x8b\x9blowattGrowaPtGrowattG\x8d\x90\x8d\x05ttGrowat\x8b\xb8\x8eMwattGrow\x9e\x8b\xa8YroSa\x8b\x8b\xbd\x16\x90\x88\x9dVtGs\x9bwattGrowattGro\x1e^ttN\xceowq\xe2tG~\xb5wattGr\x1d\x8bati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrJ\xd3'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00[\x00\x06\x00\x03\x01 GoF'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00\\\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fI]huj\xccxsrnwa[\xfbC!o\x02at[\xc8rowattGrowattGrowattGrowattGrowatti\xee|\xffh<ttroY\xc9ttGrowattGrowattN:owattGrowaW\xeaGre\x89a\x8c\xa6\xc2rowYtt[\xe6ow|xtGrVwaixGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8dmeattGr\x19wavRGrowatvT|Vwa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz<Grmwa:tGrowattGrowattG4\x8f'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\\\x00\x06\x00\x03\x01\x04G\x89\x1c'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00\\\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fI]ew\xa9ttG\xf6owhKtGrowattGro^attGrowa\x8b\x8b\x9bsowattGrowaPUGrowattG\x8d\x90\x8cuttGrowat\x8b\xb8\x8eNwattGrow\x9e\x8b\xa8FroS@\x8b\x8b\xbcf\x90\x88\x9dUtGs\x9bwattGrowattGro\x1e^ttN\xceowq\xe2tG~\xb5wattGr\x1d\x8bati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrj\x02'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\\\x00\x06\x00\x03\x01 G\x89\x07'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00]\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIBouj\xccxsrnwa[~CHo\x02at[MrowattGrowattGrowattGrowattGrowattic|\xffh=ttroY\xc1ttGrowattGrowattN;owattGrowaQOGrg\xa1a\x8c\xa6\xb8rowYtt[\xe6ow|xtGrVwaixGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\x13attGr\x19wavRGrowatvT|Pwa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz<Grmwa:tGrowattGrowattGw\xbd'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00]\x00\x06\x00\x03\x01\x04GE\xdd'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00]\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIBkw\xa9ttG\xf6owh5tGrowattGro]attGrowa\x8b\x8b\x9d\x96owattGrowaQ\xe5GrowattG\x8d\x90\x8cUttGrowat\x8b\xb8\x8eNwattGrow\x9e\x8b\xae\xa3roR\xf0\x8b\x8b\xbcF\x90\x88\x9dUtGs\x9bwattGrowattGro\x1e^ttN\xcfowq\xe2tG~\xb5wattGr\x1d\x8bati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\x0c,'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00]\x00\x06\x00\x03\x01 GE\xc6'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00&\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xb6\x7f'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00&\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xb6\x7f'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00^\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIBZuj\xccxsrnwaZ\x17C\xf6o\x1datZ$rowattGrowattGrowattGrowattGrowattj\xfb|\xf0h<turoZ4ttGrowattGrowattN:owattGrowaW\xe3Grf\x85a\x8c\xa71rowYtt[\xe6ow|xtGrVwaixGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\xd7attGr\x1bwavRGrowatvT|Twa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz:Grmwa:tGrowattGrowattG\xdai'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00^\x00\x06\x00\x03\x01\x04GP\x9d'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00^\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIBWw\xa9ttG\xf6owh5tGrowattGro^attGrowa\x8b\x8b\x9c\\owattGrowaP\xbfGrowattG\x8d\x90\x8d\x8fttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xafiroS\xaa\x8b\x8b\xbd\x9c\x90\x88\x9dTtGs\x9cwattGrowattGro\x1e^ttN\xcfowq\xe2tG~\xb5wattGr\x1d\x8bati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\x89O'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00^\x00\x06\x00\x03\x01 GP\x86'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00_\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fICAuj\xccxsrnwaZ\\C\xf3o\x06atZorowattGrowattGrowattGrowattGrowattjO|\xf2h0ttroYIttGrowattGrowattN6owattGrowaP\x9eGrg$a\x8c\xa7\x9arowYtt[\xe6ow|xtGrVwaixGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\x19attGr\x1bwavRGrowatvT|Xwa:TG?owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz4Grmwa:tGrowattGrowattG\x9d\xb3'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00_\x00\x06\x00\x03\x01\x04G\x9c\\'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00_\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fICZw\xa9ttG\xf6owhMtGrowattGro^attGrowa\x8b\x8b\x9c\xf0owattGrowaP\x00GrowattG\x8d\x90\x8c<ttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xaf\xc5roS\x15\x8b\x8b\xbc/\x90\x88\x9dTtGs\x9bwattGrowattGro\x1e^ttN\xcfowq\xe2tG~\xb5wattGr\x1d\x8bati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrbX'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00_\x00\x06\x00\x03\x01 G\x9cG'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00`\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fI@Guj\xccxsrnwa[^C7o\x07at[mrowattGrowattGrowattGrowattGrowattiJ|\xffh5ttroY\x03ttGrowattGrowattN3owattGrowaP\xe2Grf\xd5a\x8c\xa0\x10rowYtt[\xe6ow|xtGrVwaixGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8docattGr\x1bwavRGrowatvT|\\wa:TG<owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\xf4z5Grmwa%tGrowattGrowattG\x86\x80'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00`\x00\x06\x00\x03\x01\x04G\xc8\x1f'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00`\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fI@Aw\xa9ttG\xf6owhJtGrowattGro^attGrowa\x8b\x8b\x9b\x11owattGrowaQ^GrowattG\x8d\x90\x8c\xf2ttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xa8$roRK\x8b\x8b\xbc\xe1\x90\x88\x9dTtGs\x9bwattGrowattGro\x1e^ttN\xcfowq\xe2tG~\xb5wattGr\x1d\x8aati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\xc0}'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00`\x00\x06\x00\x03\x01 G\xc8\x04'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00\'\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr&c'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00\'\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr&c'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00a\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIAOuj\xccxsrnwa[AC.o\x07at[rrowattGrowattGrowattGrowattGrowatti6|\xfeh3ttroY8ttGrowattGrowattN5owattGrowaQ&Grg\x85a\x8c\xa0\x95rowXtt[\xe7ow|ytGrUwaiyGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8doiattGr\x19wavRGrowatvT|Vwa:TG<owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds$z>Grmwa?tGrowattGrowattG\xac\xd5'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00a\x00\x06\x00\x03\x01\x04G\x04\xde'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00a\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIAIw\xa9ttG\xf6owhKtGrowattGro]attGrowa\x8b\x8b\x9d\xdcowattGrowaQ\xedGrowattG\x8d\x90\x8c\x11ttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xae\xe9roR\xf8\x8b\x8b\xbc\x02\x90\x88\x9dTtGs\x9bwattGrowattGro\x1e^ttN\xcfowq\xe2tG~\xb4wattGr\x1d\x8aati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrk{'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00a\x00\x06\x00\x03\x01 G\x04\xc5'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00b\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIFvuj\xccxsrnwa[KC2o\x03at[xrowattGrowattGrowattGrowattGrowatti9|\xfeh3ttroY*ttGrowattGrowattN5owattGrowaQ\x10Grg\x90a\x8c\xa1\x01rowXtt[\xe7ow|ytGrUwaiyGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\xe1attGr\x19wavRGrowatvS|Wwa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds$z3Grmwa?tGrowattGrowattG\x9d\x8d'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00b\x00\x06\x00\x03\x01\x04G\x11\x9e'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00b\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIFrw\xa9ttG\xf6owhItGrowattGro]attGrowa\x8b\x8b\x9d\xfdowattGrowaQ\xdaGrowattG\x8d\x90\x8c\xc5ttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xae\xc8roR\xcf\x8b\x8b\xbc\xd6\x90\x88\x9dTtGs\x9bwattGrowattGro\x1e^ttN\xcfowq\xe2tG~\xb4wattGr\x1d\x8aati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\x01s'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00b\x00\x06\x00\x03\x01 G\x11\x85'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00c\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIG}uj\xccxsrnwa[EC0o\x06at[vrowattGrowattGrowattGrowattGrowatti2|\xfeh3ttroY\x0bttGrowattGrowattN5owattGrowaQ\xeaGrg\xd5a\x8c\xa1\xf9rowXtt[\xe7ow|ytGrUwaiyGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\xd7attGr\x19wavQGrowatvS|Vwa:TG<owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz<Grmwa:tGrowattGrowattGx0'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00c\x00\x06\x00\x03\x01\x04G\xdd_'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00c\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIGxw\xa9ttG\xf6owh6tGrowattGro]attGrowa\x8b\x8b\x9d.owattGrowaQ\xa3GrowattG\x8d\x90\x8c\xc0ttGrowat\x8b\xb8\x8epwattGrow\x9e\x8b\xae\x1broR\xb6\x8b\x8b\xbc\xd3\x90\x88\x9dktGs\x9bwattGrowattGro\x1e^ttN\xccowq\xe2tG~\xb4wattGr\x1d\x8aati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\xa9\xa8'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00c\x00\x06\x00\x03\x01 G\xddD'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00(\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xd6\xdd'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00(\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xd6\xdd'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00d\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIDduj\xccxsrnwa[4C.o\x03at[\x07rowattGrowattGrowattGrowattGrowatti=|\xf2h7ttroY.ttGrowattGrowattN1owattGrowaQ\xf1Grg\xbda\x8c\xa2\x00rowXtt[\xe7ow|ytGrUwaiyGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8doiattGr\x19wavQGrowatvS|Ywa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz0Grmwa:tGrowattGrowattG\xcdD'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00d\x00\x06\x00\x03\x01\x04G;\x1e'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00d\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIDaw\xa9ttG\xf6owhItGrowattGro]attGrowa\x8b\x8b\x9d\x05owattGrowaQ\xc0GrowattG\x8d\x90\x8cAttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xae0roR\xd5\x8b\x8b\xbcR\x90\x88\x9dTtGs\x9bwattGrowattGro\x1e^ttN\xccowq\xe2tG~\xb4wattGr\x1d\x8aati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\xa77'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00d\x00\x06\x00\x03\x01 G;\x05'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00e\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIEjuj\xccxsrnwa[NCGo\x06at[}rowattGrowattGrowattGrowattGrowatti;|\xf1h3ttroY\x05ttGrowattGrowattN5owattGrowaQ\x04Grg\xaea\x8c\xa2\xfbrowXtt[\xe7ow|ytGrUwaiyGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do-attGr\x1bwavQGrowatvS|Vwa:TG<owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz?Grmwa:tGrowattGrowattGww'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00e\x00\x06\x00\x03\x01\x04G\xf7\xdf'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00e\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIEiw\xa9ttG\xf6owhKtGrowattGro]attGrowa\x8b\x8b\x9c\xc2owattGrowaQ\xd1GrowattG\x8d\x90\x8cNttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xaf\xf7roR\xc4\x8b\x8b\xbc]\x90\x88\x9dTtGs\x9cwattGrowattGro\x1e^ttN\xccowq\xe2tG~\xb4wattGr\x1d\x8aati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\xd5\xbe'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00e\x00\x06\x00\x03\x01 G\xf7\xc4'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00f\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIEUuj\xccxsrnwa[7C$o\x06at[\x04rowattGrowattGrowattGrowattGrowatti*|\xf4h2ttroY\x11ttGrowattGrowattN4owattGrowaQ\xecGrg\xb7a\x8c\xa3wrow[tt[\xe4ow|ztGrTwaizGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8doKattGr\x1bwavQGrowatvS|Wwa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz>Grmwa:tGrowattGrowattG\x9a\xc1'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00f\x00\x06\x00\x03\x01\x04G\xe2\x9f'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00f\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIJiw\xa9ttG\xf6owhKtGrowattGro]attGrowa\x8b\x8b\x9d4owattGrowaQ\x98GrowattG\x8d\x90\x8c\xebttGrowat\x8b\xb8\x8epwattGrow\x9e\x8b\xae\x01roR\x8d\x8b\x8b\xbc\xf8\x90\x88\x9dktGs\x9cwattGrowattGro\x1e^ttN\xccowq\xe2tG~\xb4wattGr\x1d\x89ati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\x1c\xc0'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00f\x00\x06\x00\x03\x01 G\xe2\x84'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00)\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGrF\xc1'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00)\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGrF\xc1'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00g\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIJ\\uj\xccxsrnwa[\x12C.o\x06at[!rowattGrowattGrowattGrowattGrowatti\x06|\xf1h?ttroY\xe6ttGrowattGrowattN9owattGrowaQ\xc6Grg\xb5a\x8c\xa3\xe9row[tt[\xe4ow|ztGrTwaizGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\xd7attGr\x1bwavQGrowatvS|Pwa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz$Grmwa:tGrowattGrowattGJ0'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00g\x00\x06\x00\x03\x01\x04G.^'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00g\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIJZw\xa9ttG\xf6owh6tGrowattGro^attGrowa\x8b\x8b\x9d;owattGrowaP\xe4GrowattG\x8d\x90\x8c\xd3ttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xae\x0eroS\xf1\x8b\x8b\xbc\xc0\x90\x88\x9dTtGs\x9bwattGrowattGro\x1e^ttN\xccowq\xe2tG~\xb4wattGr\x1d\x89ati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\xaf@'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00g\x00\x06\x00\x03\x01 G.E'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00h\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIKBuj\xccxsrnwa[<CGo\x02at[\x0frowattGrowattGrowattGrowattGrowatti$|\xffh3ttroY\tttGrowattGrowattN5owattGrowaQ^Grf[a\x8c\xac`row[tt[\xe4ow|ztGrTwaizGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8dn\xb5attGr\x1bwavQGrowatvS|Twa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz%Grmwa:tGrowattGrowattG\xdb\xf9'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00h\x00\x06\x00\x03\x01\x04Gn\x1e'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00h\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIK@w\xa9ttG\xf6owh0tGrowattGro]attGrowa\x8b\x8b\x9c\xabowattGrowaQ\xe0GrowattG\x8d\x90\x8c\x93ttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xaf\x9eroR\xf5\x8b\x8b\xbc\x80\x90\x88\x9dTtGs\x9bwattGrowattGro\x1e^ttN\xccowq\xe2tG~\xb4wattGr\x1d\x89ati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\xc4\xe4'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00h\x00\x06\x00\x03\x01 Gn\x05'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00i\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIHIuj\xccxsrnwa[&C.o\x07at[\x15rowattGrowattGrowattGrowattGrowatti\x12|\xfeh1ttroY\x15ttGrowattGrowattN7owattGrowaQ\x07Grg\x9aa\x8c\xac\xd9row[tt[\xe4ow|ztGrTwaizGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8doEattGr\x1bwavQGrowatvS|Zwa:TG=owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds$z2Grmwa?tGrowattGrowattG\xc6\x92'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00i\x00\x06\x00\x03\x01\x04G\xa2\xdf'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00i\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIHGw\xa9ttG\xf6owhHtGrowattGro]attGrowa\x8b\x8b\x9d\xf9owattGrowaQ\xfdGrowattG\x8d\x90\x8c8ttGrowat\x8b\xb8\x8eNwattGrow\x9e\x8b\xae\xccroR\xe8\x8b\x8b\xbc+\x90\x88\x9dUtGs\x9bwattGrowattGro\x1e^ttN\xcdowq\xe2tG~\xb4wattGr\x1d\x89ati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\x9cw'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00i\x00\x06\x00\x03\x01 G\xa2\xc4'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00*\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xb6\xe6'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00*\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xb6\xe6'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00j\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIIpuj\xccxsrnwaZ\x80C.o\x07atZ\xb3rowattGrowattGrowattGrowattGrowattj\x85|\xfdh1ttroY9ttGrowattGrowattN7owattGrowaQ Grg\xd4a\x8c\xad^row[tt[\xe4ow|ztGrTwaizGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\xabattGr\x1bwavQGrowatvS|Ywa:TG<owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds$z0Grmwa?tGrowattGrowattG,.'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00j\x00\x06\x00\x03\x01\x04G\xb7\x9f'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00j\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fIIMw\xa9ttG\xf6owhItGrowattGro]attGrowa\x8b\x8b\x9d\xe5owattGrowaQ\xd5GrowattG\x8d\x90\x8cZttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xae\xd0roR\xc0\x8b\x8b\xbcI\x90\x88\x9dTtGs\x9bwattGrowattGro\x1e^ttN\xcdowq\xe2tG~\xb4wattGr\x1d\x89ati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\xbe\xdb'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00j\x00\x06\x00\x03\x01 G\xb7\x84'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00k\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fHrwuj\xccxsrnwa[iCGo\x06at[ZrowattGrowattGrowattGrowattGrowatti^|\xfah<ttroY>ttGrowattGrowattN:owattGrowaQ\xbcGrg\x13a\x8c\xad\xd7rowZtt[\xe5ow|{tGrSwai{GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8dnsattGr\x19wavQGrowatvS|Twa:TG<owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz<Grmwa:tGrowattGrowattGwA'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00k\x00\x06\x00\x03\x01\x04G{^'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00k\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fHrtw\xa9ttG\xf6owh4tGrowattGro^attGrowa\x8b\x8b\x9c\xdbowattGrowaQ\\GrowattG\x8d\x90\x8bcttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xaf\xeeroRI\x8b\x8b\xbbp\x90\x88\x9dTtGs\x9bwattGrowattGro\x1e^ttN\xcdowq\xe2tG~\xb4wattGr\x1d\x89ati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\x9aQ'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00k\x00\x06\x00\x03\x01 G{E'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00l\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fHs}uj\xccxsrnwaZDC\x01o\x06atZwrowattGrowattGrowattGrowattGrowattjE|\xfdh?ttroY8ttGrowattGrowattN9owattGrowaQsGrgGa\x8c\xad\xbarowZtt[\xe5ow|{tGrSwai{GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do}attGr\x1bwavQGrowatvS|Rwa:TG?owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz:Grmwa:tGrowattGrowattG?%'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00l\x00\x06\x00\x03\x01\x04G\x9d\x1f'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00l\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fHsww\xa9ttG\xf6owh5tGrowattGro]attGrowa\x8b\x8b\x9d\xc9owattGrowaQ\x1aGrowattG\x8d\x90\x8d\x90ttGrowat\x8b\xb8\x8eOwattGrow\x9e\x8b\xae\xfcroR\x0f\x8b\x8b\xbd\x83\x90\x88\x9dTtGs\x9bwattGrowattGro\x1e^ttN\xcdowq\xe2tG~\xb4wattGr\x1d\x88ati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\xc5\x13'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00l\x00\x06\x00\x03\x01 G\x9d\x04'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00+\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr&\xfa'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00+\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr&\xfa'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00m\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fHpduj\xccxsrnwaZ\xd8C.o\x06atZ\xebrowattGrowattGrowattGrowattGrowattj\xdc|\xfah:ttroY2ttGrowattGrowattN<owattGrowaRzGrh\xd7a\x8c\xae?rowZtt[\xe5ow|{tGrSwai{GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do}attGr\x19wavQGrowatvS|+wa:TG?owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz Grmwa:tGrowattGrowattG\xf8\xd7'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00m\x00\x06\x00\x03\x01\x04GQ\xde'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00m\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fHp}w\xa9ttG\xf6owh1tGrowattGro]attGrowa\x8b\x8b\x9e\x85owattGrowaRCGrowattG\x8d\x90\x8c\xd9ttGrowat\x8b\xb8\x8epwattGrow\x9e\x8b\xad\xb0roQV\x8b\x8b\xbc\xca\x90\x88\x9dktGs\x9bwattGrowattGro\x1e^ttN\xcdowq\xe2tG~\xb4wattGr\x1d\x88ati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\xc5\x8f'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00m\x00\x06\x00\x03\x01 GQ\xc5'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00n\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fHqkuj\xccxsrnwaZ\xadC\x08o\x1datZ\x9erowattGrowattGrowattGrowattGrowattj\x84|\xfdh8tvro[\x87ttGrowattGrowattN>owattGrowaP\x83Grg\x88a\x8c\xae\xabrowZtt[\xe5ow|{tGrSwai{GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do1attGr\x1bwavQGrowatvT|/wa:TG<owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\x0cz%Grmwa:tGrowattGrowattG\xb1+'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00n\x00\x06\x00\x03\x01\x04GD\x9e'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00n\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fHqew\xa9ttG\xf6owh5tGrowattGro^attGrowa\x8b\x8b\x9dZowattGrowaP\x86GrowattG\x8d\x90\x8d7ttGrowat\x8b\xb8\x8eNwattGrow\x9e\x8b\xaeoroS\x93\x8b\x8b\xbd$\x90\x88\x9dUtGs\x9bwattGrowattGro\x1e^ttN\xcdowq\xe2tG~\xb4wattGr\x1d\x88ati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr;\xc3'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00n\x00\x06\x00\x03\x01 GD\x85'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00o\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fHqVuj\xccxsrnwaZ\x9cC,o\x1eatZ\xafrowattGrowattGrowattGrowattGrowattir|\xfeh8tvroZ9ttGrowattGrowattN>owattGrowaQ\xecGrg\x1fa\x8c\xaf$rowZtt[\xe5ow|{tGrSwai{GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do1attGr\x1bwavQGrowatvT|/wa:TG<owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\xf4z$Grmwa%tGrowattGrowattG\x7f\xec'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00o\x00\x06\x00\x03\x01\x04G\x88_'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00o\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fHvlw\xa9ttG\xf6owh5tGrowattGro_attGrowa\x8b\x8b\x9d\xfeowattGrowaP\xe6GrowattG\x8d\x90\x8c\xc8ttGrowat\x8b\xb8\x8eNwattGrow\x9e\x8b\xae\xcbroS\xf3\x8b\x8b\xbc\xdb\x90\x88\x9dUtGs\x9bwattGrowattGro\x1e^ttN\xcdowq\xe2tG~\xb4wattGr\x1d\x88ati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr/L'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00o\x00\x06\x00\x03\x01 G\x88D'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00,\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x16\xab'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00,\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x16\xab'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00p\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fHv]uj\xccxsrnwaZ\x99C.o\x1eatZ\xaarowattGrowattGrowattGrowattGrowattj\x8c|\xfdh=tvroZ\x82ttGrowattGrowattN;owattGrowaQzGrg\x87a\x8c\xaf\x9arow]tt[\xeaow|dtGrRwaidGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do\xa5attGr\x1bwavPGrowatvT|Swa:TG<owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\xf4z3Grmwa%tGrowattGrowattG\xa0L'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00p\x00\x06\x00\x03\x01\x04G\xc4\x1e'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00p\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fHvWw\xa9ttG\xf6owh4tGrowattGro^attGrowa\x8b\x8b\x9dhowattGrowaP\x87GrowattG\x8d\x90\x8c/ttGrowat\x8b\xb8\x8eNwattGrow\x9e\x8b\xae]roS\x92\x8b\x8b\xbc<\x90\x88\x9dUtGs\x9bwattGrowattGro\x1e^ttN\xb2owq\xe2tG~\xb4wattGr\x1d\x88ati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrQ\xfc'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00p\x00\x06\x00\x03\x01 G\xc4\x05'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00q\x00\x06\x02A\x01\x04\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fHwDuj\xccxsrnwaZ\xc5C)o\x18atZ\xf6rowattGrowattGrowattGrowattGrowattj\xb0|\xfdh1turoZ\xacttGrowattGrowattN7owattGrowaQ\xdcGrgma\x8c\xa8\x14row]tt[\xeaow|dtGrRwaidGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8do_attGr\x1bwavPGrowatvT|Xwa:TG<owattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x0frds\xf4z2Grmwa%tGrowattGrowattG\x07o'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00q\x00\x06\x00\x03\x01\x04G\x08\xdf'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]
+DEBUG:root:b'\x00q\x00\x06\x01\x0e\x01 \x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fHw_w\xa9ttG\xf6owh4tGrowattGro^attGrowa\x8b\x8b\x9bfowattGrowaP\xa5GrowattG\x8d\x90\x8c\tttGrowat\x8b\xb8\x8eNwattGrow\x9e\x8b\xa8SroS\xb0\x8b\x8b\xbc\x1a\x90\x88\x9dUtGs\x9bwattGrowattGro\x1e^ttN\xb2owq\xe2tG~\xb4wattGr\x1d\x88ati6rowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGr\xf2\x94'
+INFO:root:Forwarding data from 192.168.50.126[ConnectionType.DATALOGGER] to 47.91.67.66[ConnectionType.DATALOGGER]
+DEBUG:root:b'\x00q\x00\x06\x00\x03\x01 G\x08\xc4'
+INFO:root:Forwarding data from 47.91.67.66[ConnectionType.GROWATT] to 192.168.50.126[ConnectionType.GROWATT]

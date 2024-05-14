@@ -1,0 +1,159 @@
+INFO:root:Starting ImGrott Server
+DEBUG:root:Loading layout file: /app/imgrott/data/T02NNNN.json
+DEBUG:root:Loading layout file: /app/imgrott/data/T05NNNN.json
+DEBUG:root:Loading layout file: /app/imgrott/data/T05NNNNSPF.json
+DEBUG:root:Loading layout file: /app/imgrott/data/T05NNNNX.json
+DEBUG:root:Loading layout file: /app/imgrott/data/T05NNNNXSPH.json
+DEBUG:root:Loading layout file: /app/imgrott/data/T060120.json
+DEBUG:root:Loading layout file: /app/imgrott/data/T06501b.json
+DEBUG:root:Loading layout file: /app/imgrott/data/T06NNNN.json
+DEBUG:root:Loading layout file: /app/imgrott/data/T06NNNNSPF.json
+DEBUG:root:Loading layout file: /app/imgrott/data/T06NNNNX.json
+DEBUG:root:Loading layout file: /app/imgrott/data/T06NNNNXSPH.json
+DEBUG:root:Loading layout file: /app/imgrott/data/T06NNNNXTL3.json
+INFO:root:New Connection from "192.168.50.126" on port "6328"
+INFO:root:It will forward to "server.growatt.com" on port "5279"
+DEBUG:root:b'\x00x\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xd0q'
+DEBUG:root:b'\x00y\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr@m'
+DEBUG:root:b'\x00z\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xb0J'
+DEBUG:root:b''
+INFO:root:Closed connection for "192.168.50.126" on port "6328"
+INFO:root:New Connection from "192.168.50.126" on port "1341"
+INFO:root:It will forward to "server.growatt.com" on port "5279"
+DEBUG:root:b'\x00{\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr V'
+DEBUG:root:b'\x00|\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x10\x07'
+DEBUG:root:b'\x00}\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x80\x1b'
+DEBUG:root:b''
+INFO:root:Closed connection for "192.168.50.126" on port "1341"
+INFO:root:New Connection from "192.168.50.126" on port "33844"
+INFO:root:It will forward to "server.growatt.com" on port "5279"
+DEBUG:root:b'\x00~\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGrp<'
+DEBUG:root:b'\x00\x7f\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xe0 '
+DEBUG:root:b'\x00\x80\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x1bj'
+DEBUG:root:b''
+INFO:root:Closed connection for "192.168.50.126" on port "33844"
+INFO:root:New Connection from "192.168.50.126" on port "36019"
+INFO:root:It will forward to "server.growatt.com" on port "5279"
+DEBUG:root:b'\x00\x81\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x8bv'
+DEBUG:root:b'\x00\x82\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr{Q'
+DEBUG:root:b'\x00\x83\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xebM'
+DEBUG:root:b'\x00\x07\x00\x06\x02A\x01P\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fLk{uj\xccxsrnwaP\x8bC:o.atP\xb8rowattGrowattGrowattGrowattGrowattc0|\xf2hhtnroS5ttGrowattGrowattNnowattGP7wattGr)\xeda\x8c\x06^rowptt[\x1fow}\x91tGr}wah\x91GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8doiattGr\x19wau\xb8Growatu\x89|owa:TGOowattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x03rds8zdGrmwa:tGrowattGrowattG\x97R'
+DEBUG:root:b''
+INFO:root:Closed connection for "192.168.50.126" on port "36019"
+INFO:root:New Connection from "192.168.50.126" on port "16033"
+INFO:root:It will forward to "server.growatt.com" on port "5279"
+DEBUG:root:b'\x00\x84\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xdb\x1c'
+DEBUG:root:b'\x00\x85\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGrK\x00'
+DEBUG:root:b'\x00\x86\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xbb\''
+DEBUG:root:b''
+INFO:root:Closed connection for "192.168.50.126" on port "16033"
+INFO:root:New Connection from "192.168.50.126" on port "17498"
+INFO:root:It will forward to "server.growatt.com" on port "5279"
+DEBUG:root:b'\x00\x87\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr+;'
+DEBUG:root:b'\x00\x88\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xdb\x85'
+DEBUG:root:b'\x00\x89\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGrK\x99'
+DEBUG:root:b''
+INFO:root:Closed connection for "192.168.50.126" on port "17498"
+INFO:root:New Connection from "192.168.50.126" on port "2152"
+INFO:root:It will forward to "server.growatt.com" on port "5279"
+DEBUG:root:b'\x00\x8a\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xbb\xbe'
+DEBUG:root:b'\x00\x8b\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr+\xa2'
+DEBUG:root:b'\x00\x8c\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x1b\xf3'
+DEBUG:root:b''
+INFO:root:Closed connection for "192.168.50.126" on port "2152"
+INFO:root:New Connection from "192.168.50.126" on port "48576"
+INFO:root:It will forward to "server.growatt.com" on port "5279"
+DEBUG:root:b'\x00\x8d\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x8b\xef'
+DEBUG:root:b'\x00\x8e\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr{\xc8'
+DEBUG:root:b'\x00\x8f\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xeb\xd4'
+INFO:root:New Connection from "192.168.50.126" on port "53042"
+INFO:root:It will forward to "server.growatt.com" on port "5279"
+DEBUG:root:b'\x00\x02\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xb5\xb0'
+DEBUG:root:b'\x00\x03\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr%\xac'
+DEBUG:root:b'\x00\x04\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x15\xfd'
+DEBUG:root:b''
+INFO:root:Closed connection for "192.168.50.126" on port "53042"
+INFO:root:New Connection from "192.168.50.126" on port "9366"
+INFO:root:It will forward to "server.growatt.com" on port "5279"
+DEBUG:root:b'\x00\x05\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x85\xe1'
+DEBUG:root:b'\x00\x06\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGru\xc6'
+DEBUG:root:b'\x00\x07\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xe5\xda'
+DEBUG:root:b''
+INFO:root:Closed connection for "192.168.50.126" on port "9366"
+INFO:root:New Connection from "192.168.50.126" on port "4604"
+INFO:root:It will forward to "server.growatt.com" on port "5279"
+DEBUG:root:b'\x00\x08\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x15d'
+DEBUG:root:b'\x00\x01\x00\x06\x00%\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGrosauEq\x88'
+DEBUG:root:b'\x00\t\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x85x'
+DEBUG:root:b'\x00\x01\x00\x06\x00%\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGrorauE\x8d\x89'
+DEBUG:root:b'\x00\x01\x00\x06\x00&\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGroqavGu\x95#'
+DEBUG:root:b'\x00\x01\x00\x06\x00%\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGropau,\x1bH'
+DEBUG:root:b'\x00\x01\x00\x06\x00.\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGro\x7fa~,\x006Y4-7Lq1.?'
+DEBUG:root:b'\x00\x01\x00\x06\x00(\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGro~ap,\x1f*7w\xef'
+DEBUG:root:b'\x00\x01\x00\x06\x00%\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGro}auDYK'
+DEBUG:root:b'\x00\x01\x00\x06\x00A\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGro|aiWdCVEOEB\x7f\\\\YRA[&\x02\x1fX\x19\x19\x18hQWGYEWc\xea'
+DEBUG:root:b'\x00\x01\x00\x06\x003\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGro{a{,\x1f*7/9,,\x1f*7/9,,a\xfa'
+DEBUG:root:b'\x00\x01\x00\x06\x00&\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGrozavEq\xf7\x86'
+DEBUG:root:b'\x00\x01\x00\x06\x00/\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGroya\x7fE~@AFWLZr\\^\x04\xe1'
+DEBUG:root:b'\x00\x01\x00\x06\x00&\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGroxavLwey'
+DEBUG:root:b'\x00\x01\x00\x06\x005\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGrogae6sHW6[D5}6\\MQ1N~A\x95t'
+DEBUG:root:b'\x00\x01\x00\x06\x000\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGrofaxE~@AFWLZrBAC\xb8\xc6'
+DEBUG:root:b'\x00\x01\x00\x06\x00(\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGroeapAuEV\xde\x94'
+DEBUG:root:b'\x00\x01\x00\x06\x00$\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGrodat\x1c\x95'
+DEBUG:root:b'\x00\x01\x00\x06\x008\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGroca`,\x1f*7/9,,\x1f*7/9,,\x1f*7/9\xc2\x8a'
+DEBUG:root:b'\x00\x01\x00\x06\x00+\x01\x19\x1f5+A"87\x7fD,wattGrowattGrowattGrobasGiCAGOA\x8c\x07'
+DEBUG:root:b'\x00\n\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGru_'
+DEBUG:root:b''
+INFO:root:Closed connection for "192.168.50.126" on port "4604"
+INFO:root:New Connection from "192.168.50.126" on port "26494"
+INFO:root:It will forward to "server.growatt.com" on port "5279"
+DEBUG:root:b'\x00\x0b\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xe5C'
+DEBUG:root:b'\x00\x0c\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xd5\x12'
+DEBUG:root:b'\x00\r\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGrE\x0e'
+DEBUG:root:b''
+INFO:root:Closed connection for "192.168.50.126" on port "26494"
+INFO:root:New Connection from "192.168.50.126" on port "42418"
+INFO:root:It will forward to "server.growatt.com" on port "5279"
+DEBUG:root:b'\x00\x0e\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xb5)'
+DEBUG:root:b'\x00\x02\x00\x06\x02A\x01P\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fLk{uj\xccxsrnwaP\x8bC:o.atP\xb8rowattGrowattGrowattGrowattGrowattc0|\xf2hhtnroS5ttGrowattGrowattNnowattGP7wattGr)\xeda\x8c\x06^rowptt[\x1fow}\x91tGr}wah\x91GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8doiattGr\x19wau\xb8Growatu\x89|owa:TGOowattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x03rds8zdGrmwa:tGrowattGrowattG:\x18'
+DEBUG:root:b'\x00\x03\x00\x06\x02A\x01P\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fLk{uj\xccxsrnwaP\x8bC:o.atP\xb8rowattGrowattGrowattGrowattGrowattc0|\xf2hhtnroS5ttGrowattGrowattNnowattGP7wattGr)\xeda\x8c\x06^rowptt[\x1fow}\x91tGr}wah\x91GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8doiattGr\x19wau\xb8Growatu\x89|owa:TGOowattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x03rds8zdGrmwa:tGrowattGrowattG\x99\xa4'
+DEBUG:root:b'\x00\x0f\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr%5'
+DEBUG:root:b'\x00\x04\x00\x06\x02A\x01P\x1f5+A"87\x7fD,wattGrowattGrowattGr.1*D6\x0f<_F+ttGrowattGrowattGrowyq\x7fLk{uj\xccxsrnwaP\x8bC:o.atP\xb8rowattGrowattGrowattGrowattGrowattc0|\xf2hhtnroS5ttGrowattGrowattNnowattGP7wattGr)\xeda\x8c\x06^rowptt[\x1fow}\x91tGr}wah\x91GrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowat\x7f\xb8\x8doiattGr\x19wau\xb8Growatu\x89|owa:TGOowattGrowattGrowattGrowattGrowattGrowattGrowatxr~\xdewattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowattGrowa|t\x03rds8zdGrmwa:tGrowattGrowattG3\x95'
+DEBUG:root:b'\x00\x10\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x14V'
+DEBUG:root:b''
+INFO:root:Closed connection for "192.168.50.126" on port "42418"
+INFO:root:New Connection from "192.168.50.126" on port "7543"
+INFO:root:It will forward to "server.growatt.com" on port "5279"
+DEBUG:root:b'\x00\x11\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x84J'
+DEBUG:root:b'\x00\x12\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGrtm'
+DEBUG:root:b'\x00\x13\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xe4q'
+DEBUG:root:b''
+INFO:root:Closed connection for "192.168.50.126" on port "7543"
+INFO:root:New Connection from "192.168.50.126" on port "22821"
+INFO:root:It will forward to "server.growatt.com" on port "5279"
+DEBUG:root:b'\x00\x14\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xd4 '
+DEBUG:root:b'\x00\x15\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGrD<'
+DEBUG:root:b'\x00\x16\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xb4\x1b'
+DEBUG:root:b''
+INFO:root:Closed connection for "192.168.50.126" on port "22821"
+INFO:root:New Connection from "192.168.50.126" on port "27351"
+INFO:root:It will forward to "server.growatt.com" on port "5279"
+DEBUG:root:b'\x00\x17\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr$\x07'
+DEBUG:root:b'\x00\x18\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xd4\xb9'
+DEBUG:root:b'\x00\x19\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGrD\xa5'
+DEBUG:root:b''
+INFO:root:Closed connection for "192.168.50.126" on port "27351"
+INFO:root:New Connection from "192.168.50.126" on port "12058"
+INFO:root:It will forward to "server.growatt.com" on port "5279"
+DEBUG:root:b'\x00\x1a\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xb4\x82'
+INFO:root:New Connection from "192.168.50.126" on port "11819"
+INFO:root:It will forward to "server.growatt.com" on port "5279"
+DEBUG:root:b'\x00\x02\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\xb5\xb0'
+DEBUG:root:b'\x00\x03\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr%\xac'
+DEBUG:root:b'\x00\x04\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x15\xfd'
+DEBUG:root:b''
+INFO:root:Closed connection for "192.168.50.126" on port "11819"
+INFO:root:New Connection from "192.168.50.126" on port "28964"
+INFO:root:It will forward to "server.growatt.com" on port "5279"
+DEBUG:root:b'\x00\x05\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGr\x85\xe1'
+DEBUG:root:b'\x00\x06\x00\x06\x00 \x01\x16\x1f5+A"87\x7fD,wattGrowattGrowattGru\xc6'
