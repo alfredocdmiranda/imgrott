@@ -39,7 +39,12 @@ class ImGrottBaseTCPServer:
                     self.on_connect(sock)
                     continue
 
-                data, addr = sock.recvfrom(CONN_BUFFER_SIZE)
+                try:
+                    data, addr = sock.recvfrom(CONN_BUFFER_SIZE)
+                except ConnectionResetError as err:
+                    logging.warning(f"It happened some error and the connection was closed: {err}")
+                    data = b''
+
                 logging.debug(data)
                 if len(data) == 0:
                     self.on_close(sock)

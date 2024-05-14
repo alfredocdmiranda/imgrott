@@ -1,4 +1,6 @@
+import codecs
 import logging
+from datetime import datetime
 from itertools import cycle
 
 import libscrc
@@ -40,11 +42,11 @@ class Message:
         if protocol in CRC_SUPPORTED_PROTOCOLS:
             len_crc = 4  # TODO bytes?
             crc = int.from_bytes(data[-2:], "big")
-            crc_calc = libscrc.modbus(data[0 : len_data - 2])
+            crc_calc = libscrc.modbus(data[0: len_data - 2])
 
         real_payload_size = (
-            len_data * 2 - 12 - len_crc
-        ) / 2  # TODO What does this calculation do?
+                                    len_data * 2 - 12 - len_crc
+                            ) / 2  # TODO What does this calculation do?
 
         if real_payload_size == payload_size:
             if crc is not None and crc_calc is not None and crc != crc_calc:
@@ -60,7 +62,7 @@ class DataloggerMessage(Message):
 
     @classmethod
     def read(
-        cls, data: bytes, layouts: dict[str, dict], inverter_type: str = "default"
+            cls, data: bytes, layouts: dict[str, dict], inverter_type: str = "default"
     ):
         cls._validate_record(data)
         header = cls._get_header(data)
@@ -96,10 +98,10 @@ class DataloggerMessage(Message):
 
     @staticmethod
     def _auto_layout_detection(
-        len_data: int,
-        header: str,
-        layouts: dict[str, dict],
-        inverter_type: str = "default",
+            len_data: int,
+            header: str,
+            layouts: dict[str, dict],
+            inverter_type: str = "default",
     ) -> str:
         """
         Detects automatically which layout is being used in the message.
@@ -132,11 +134,11 @@ class DataloggerMessage(Message):
 
     @staticmethod
     def _auto_layout_detection_by_inv_serial(
-        data: str,
-        layout: str,
-        len_data: int,
-        header: str,
-        inverter_type: str = "default",
+            data: str,
+            layout: str,
+            len_data: int,
+            header: str,
+            inverter_type: str = "default",
     ) -> str:
         """
         Detects automatically which layout is being used in the message using the Serial Inverter.
@@ -226,7 +228,7 @@ class DataloggerMessage(Message):
         # filter invalid 0120 record (0 < voltage_l1 > 500 )
         if header[MESSAGE_TYPE_SLICE] == "20":
             if (definedkey["voltage_l1"] / 10 > 500) or (
-                definedkey["voltage_l1"] / 10 < 0
+                    definedkey["voltage_l1"] / 10 < 0
             ):
                 print("\t - " + "Grott invalid 0120 record processing stopped")
                 return
@@ -275,23 +277,23 @@ class DataloggerMessage(Message):
         date_str = None
         if offset > 0 and buffered:
             logging.debug("Processing date")
-            pvyearI = int(data[offset : offset + 2], 16)
+            pvyearI = int(data[offset: offset + 2], 16)
             pvyear = f"20{pvyearI:02d}"
 
-            pvmonthI = int(data[offset + 2 : offset + 4], 16)
+            pvmonthI = int(data[offset + 2: offset + 4], 16)
             pvmonth = f"{pvmonthI:02d}"
 
-            pvdayI = int(data[offset + 4 : offset + 6], 16)
+            pvdayI = int(data[offset + 4: offset + 6], 16)
             pvday = f"{pvdayI:02d}"
 
             # Time
-            pvhourI = int(data[offset + 6 : offset + 8], 16)
+            pvhourI = int(data[offset + 6: offset + 8], 16)
             pvhour = f"{pvhourI:02d}"
 
-            pvminuteI = int(data[offset + 8 : offset + 10], 16)
+            pvminuteI = int(data[offset + 8: offset + 10], 16)
             pvminute = f"{pvminuteI:02d}"
 
-            pvsecondI = int(data[offset + 10 : offset + 12], 16)
+            pvsecondI = int(data[offset + 10: offset + 12], 16)
             pvsecond = f"{pvsecondI:02d}"
 
             # create date/time is format
@@ -331,10 +333,10 @@ class DataloggerMessage(Message):
 class GrowattMessage(Message):
     @classmethod
     def read(
-        cls,
-        data: bytes,
-        layouts: list[dict],
-        compatible_mode: bool = False,
-        inverter_type: str = "default",
+            cls,
+            data: bytes,
+            layouts: list[dict],
+            compatible_mode: bool = False,
+            inverter_type: str = "default",
     ):
         pass
