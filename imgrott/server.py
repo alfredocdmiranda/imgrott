@@ -5,15 +5,11 @@ import time
 
 from imgrott.conf import Settings
 from imgrott.constants import (
-    GROWATT_SERVER_ADDR,
-    GROWATT_SERVER_PORT,
-    DEFAULT_ADDR,
-    DEFAULT_PORT,
     SERVER_MAX_CONN,
     CONN_BUFFER_SIZE,
 )
 from imgrott.enums import ConnectionType
-from imgrott.messages import DataloggerMessage, GrowattMessage
+from imgrott.messages import Message
 
 logging.basicConfig(level=logging.DEBUG)
 
@@ -84,9 +80,7 @@ class ImGrottBaseTCPServer:
             "devices": [],
             "forward": None,
         }
-        logging.info(
-            f'New Connection from "{datalogger_addr[0]}" on port "{datalogger_addr[1]}"'
-        )
+        logging.info(f'New Connection from "{datalogger_addr[0]}" on port "{datalogger_addr[1]}"')
 
         if self.config.forward:
             forward_sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -103,19 +97,16 @@ class ImGrottBaseTCPServer:
             )
 
     def on_receive(self, sock: socket.socket, data: bytes) -> None:
-        # if len(data) == 0:
-        #     return None
-        #
-        # match self.connections[sock]["type"]:
-        #     case ConnectionType.DATALOGGER:
-        #         message = DataloggerMessage.read(data)
-        #     case ConnectionType.GROWATT:
-        #         message = GrowattMessage.read(data)
-        #     case _:
-        #         message = None
-        #
-        # return message
-        raise NotImplementedError("Need to implement on_receive()")
+        if len(data) == 0:
+            return None
+
+        match self.connections[sock]["type"]:
+            case ConnectionType.DATALOGGER:
+                message = Message.read(data, self.config.layouts)
+            case _:
+                message = None
+
+        return message
 
 
 class ImGrottOnlyForwardTCPServer(ImGrottBaseTCPServer):
