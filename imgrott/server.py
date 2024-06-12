@@ -10,14 +10,18 @@ from imgrott.constants import (
 )
 from imgrott.enums import ConnectionType
 from imgrott.messages import Message
+from imgrott.services import ExtensionsService
 
-logging.basicConfig(level=logging.DEBUG)
+logger = logging.getLogger(__name__)
 
 
 class ImGrottBaseTCPServer:
-    def __init__(self, config: Settings):
+    def __init__(self, config: Settings, layouts: dict[str, dict], extensions_service: ExtensionsService):
         self.config = config
         self.forward_to = (self.config.growatt_addr, self.config.growatt_port)
+
+        self.layouts = layouts
+        self.extensions_service = extensions_service
 
         self.server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         self.server.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
@@ -38,15 +42,18 @@ class ImGrottBaseTCPServer:
                 try:
                     data, addr = sock.recvfrom(CONN_BUFFER_SIZE)
                 except ConnectionResetError as err:
-                    logging.warning(f"It happened some error and the connection was closed: {err}")
+                    logger.warning(f"It happened some error and the connection was closed: {err}")
                     data = b''
 
-                logging.debug(data)
+                logger.debug(data)
                 if len(data) == 0:
                     self.on_close(sock)
                     continue
 
-                self.on_receive(sock, data)
+                try:
+                    self.on_receive(sock, data)
+                except BaseException:
+                    logger.exception("Something bad happened!")
 
                 # try:
                 #     self.data, self.addr = sock.recvfrom(CONN_BUFFER_SIZE)
@@ -70,7 +77,7 @@ class ImGrottBaseTCPServer:
         self.connections.pop(sock, None)
         self.input_list.remove(sock)
         sock.close()
-        logging.info(f'Closed connection for "{addr}" on port "{port}"')
+        logger.info(f'Closed connection for "{addr}" on port "{port}"')
 
     def on_connect(self, sock: socket.socket) -> None:
         datalogger_sock, datalogger_addr = sock.accept()
@@ -80,7 +87,7 @@ class ImGrottBaseTCPServer:
             "devices": [],
             "forward": None,
         }
-        logging.info(f'New Connection from "{datalogger_addr[0]}" on port "{datalogger_addr[1]}"')
+        logger.info(f'New Connection from "{datalogger_addr[0]}" on port "{datalogger_addr[1]}"')
 
         if self.config.forward:
             forward_sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -92,7 +99,7 @@ class ImGrottBaseTCPServer:
                 "forward": datalogger_sock,
             }
             self.connections[datalogger_sock]["forward"] = forward_sock
-            logging.info(
+            logger.info(
                 f'It will forward to "{self.forward_to[0]}" on port "{self.forward_to[1]}"'
             )
 
@@ -102,9 +109,11 @@ class ImGrottBaseTCPServer:
 
         match self.connections[sock]["type"]:
             case ConnectionType.DATALOGGER:
-                message = Message.read(data, self.config.layouts)
+                message = Message.read(data, self.layouts)
             case _:
                 message = None
+
+        self.extensions_service.execute(message)
 
         return message
 
@@ -118,11 +127,11 @@ class ImGrottOnlyForwardTCPServer(ImGrottBaseTCPServer):
         if sock_forward:
             src_addr = sock.getpeername()[0]
             dest_addr = sock_forward.getpeername()[0]
-            logging.info(
+            logger.info(
                 f"Forwarding data from {src_addr}[{self.connections[sock]["type"]}] "
                 f"to {dest_addr}[{self.connections[sock_forward]["type"]}]"
             )
             try:
                 sock_forward.sendall(data)
             except BaseException:
-                logging.error("Failed to forward message.")
+                logger.error("Failed to forward message.")

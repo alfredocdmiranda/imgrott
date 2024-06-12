@@ -12,7 +12,11 @@ from imgrott.constants import (
     GROWATT_SERVER_ADDR,
     GROWATT_SERVER_PORT,
 )
-from imgrott.server import ImGrottOnlyForwardTCPServer
+from imgrott.server import ImGrottBaseTCPServer
+from imgrott.services import ExtensionsService
+
+LOGGING_FORMAT = '%(asctime)s | %(levelname)s | %(module)s | %(message)s'
+SCHEMAS_DIR = f"{Path(__file__).parent}/data"
 
 
 def load_layouts(folder: str) -> dict[str, dict]:
@@ -60,21 +64,40 @@ def arguments():
         help="Do not forward data to Growatt's servers",
     )
     parser.add_argument(
+        "--debug",
+        dest="debug",
+        action="store_true",
+        help="Debug mode. More verbose.",
+    )
+    parser.add_argument(
+        "--extension-help",
+        # dest="extension_help",
+        help="Do not forward data to Growatt's servers",
+    )
+    parser.add_argument(
         "--extensions",
         nargs="+",
         default=[],
         help="Do not forward data to Growatt's servers",
     )
 
-    return parser.parse_args()
+    return parser.parse_known_args()
 
 
 def main():
-    logging.info("Starting ImGrott Server")
-    args = arguments()
+    args, unknown_args = arguments()
+    ext_service = ExtensionsService()
+    if args.extension_help:
+        ext_service.print_help(args.extension_help)
+        exit(0)
+
     settings = Settings.from_argparser(args)
-    layouts = load_layouts(f"{Path(__file__).parent}/data")
-    server = ImGrottOnlyForwardTCPServer(settings)
+    logging.basicConfig(level="DEBUG" if settings.debug else "INFO", format=LOGGING_FORMAT)
+
+    logging.info("Starting ImGrott Server")
+    layouts = load_layouts(SCHEMAS_DIR)
+    ext_service.load_extensions(settings.extensions, unknown_args)
+    server = ImGrottBaseTCPServer(settings, layouts, ext_service)
     server.run()
 
 
