@@ -12,14 +12,16 @@ from imgrott.constants import (
     GROWATT_SERVER_ADDR,
     GROWATT_SERVER_PORT,
 )
-from imgrott.server import ImGrottOnlyForwardTCPServer
+from imgrott.server import ImGrottBaseTCPServer
 
 LOGGING_FORMAT = "%(asctime)s | %(levelname)s | %(module)s | %(message)s"
 SCHEMAS_DIR = f"{Path(__file__).parent}/data"
 
 
 def load_layouts(folder: str) -> dict[str, dict]:
-    """"""
+    """
+    Loads layouts from folder
+    """
     files = glob.glob(os.path.join(folder, "*.json"))
     layouts = {}
     for file in files:
@@ -75,7 +77,7 @@ def main():
 
     logging.info("Starting ImGrott Server")
     layouts = load_layouts(SCHEMAS_DIR)
-    server = ImGrottOnlyForwardTCPServer(settings, layouts)
+    server = ImGrottBaseTCPServer(settings, layouts)
     server.run()
 
 

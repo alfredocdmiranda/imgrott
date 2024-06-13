@@ -175,12 +175,12 @@ class Message:
 
         logger.debug(f"Checking if layout [{layout}] exist.")
         if layout not in layouts:
-            logger.debug(f"No matching record layout found, trying generic.")
+            logger.debug("No matching record layout found, trying generic.")
             if msg_type in GENERIC_MESSAGE_TYPE:
                 layout = layout.replace(msg_type.value.hex(), "NNNN")
                 logger.debug(f"Checking if generic layout [{layout}] exist.")
                 if layout not in layouts:
-                    logger.error(f"No matching generic record layout found.")
+                    logger.error("No matching generic record layout found.")
                     raise NoValidRecordException(
                         "No matching generic record layout found"
                     )

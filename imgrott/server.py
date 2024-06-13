@@ -9,6 +9,7 @@ from imgrott.constants import (
     CONN_BUFFER_SIZE,
 )
 from imgrott.enums import ConnectionType
+from imgrott.messages import Message
 
 logger = logging.getLogger(__name__)
 
@@ -89,7 +90,14 @@ class ImGrottBaseTCPServer:
             )
 
     def on_receive(self, sock: socket.socket, data: bytes) -> None:
-        pass
+        if len(data) == 0:
+            return None
+
+        match self.connections[sock]["type"]:
+            case ConnectionType.DATALOGGER:
+                Message.read(data, self.layouts)
+
+        self._forward_message(sock, data)
 
     def _start_server(self) -> socket.socket:
         server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -99,12 +107,7 @@ class ImGrottBaseTCPServer:
 
         return server
 
-
-class ImGrottOnlyForwardTCPServer(ImGrottBaseTCPServer):
-    def on_receive(self, sock: socket.socket, data: bytes) -> None:
-        if len(data) == 0:
-            return None
-
+    def _forward_message(self, sock: socket.socket, data: bytes) -> None:
         sock_forward = self.connections[sock].get("forward", None)
         if sock_forward:
             src_addr = sock.getpeername()[0]
@@ -117,3 +120,11 @@ class ImGrottOnlyForwardTCPServer(ImGrottBaseTCPServer):
                 sock_forward.sendall(data)
             except BaseException:
                 logger.error("Failed to forward message.")
+
+
+class ImGrottOnlyForwardTCPServer(ImGrottBaseTCPServer):
+    def on_receive(self, sock: socket.socket, data: bytes) -> None:
+        if len(data) == 0:
+            return None
+
+        self._forward_message(sock, data)
