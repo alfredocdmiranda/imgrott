@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "imgrott"
+version = "0.1.0"
+description = "Growatt Server for Inverters and Smart Monitors"
+authors = ["Alfredo Miranda <alfredocdmiranda@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+libscrc = "^1.8.1"
+pydantic-settings = "^2.2.1"
+pydantic = "^2.7.3"
+paho-mqtt = "^2.1.0"
+
+[tool.poetry.group.dev.dependencies]
+ruff = "^0.4.4"
+poetry-plugin-export = "^1.8.0"
+pre-commit = "^3.7.0"
+
+[tool.poetry.scripts]
+imgrott = "imgrott.main:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
