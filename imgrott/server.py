@@ -14,9 +14,10 @@ logger = logging.getLogger(__name__)
 
 
 class ImGrottBaseTCPServer:
-    def __init__(self, config: Settings):
+    def __init__(self, config: Settings, layouts: dict[str, ...]):
         self.config = config
         self.forward_to = (self.config.growatt_addr, self.config.growatt_port)
+        self.layouts = layouts
 
         self.server = self._start_server()
         self.input_list = [self.server]

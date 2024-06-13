@@ -1,5 +1,9 @@
 import argparse
+import glob
+import json
 import logging
+import os
+from pathlib import Path
 
 from imgrott.conf import Settings
 from imgrott.constants import (
@@ -11,6 +15,19 @@ from imgrott.constants import (
 from imgrott.server import ImGrottOnlyForwardTCPServer
 
 LOGGING_FORMAT = "%(asctime)s | %(levelname)s | %(module)s | %(message)s"
+SCHEMAS_DIR = f"{Path(__file__).parent}/data"
+
+
+def load_layouts(folder: str) -> dict[str, dict]:
+    """"""
+    files = glob.glob(os.path.join(folder, "*.json"))
+    layouts = {}
+    for file in files:
+        logging.debug(f"Loading layout file: {file}")
+        layout = json.load(open(file))
+        layouts[layout["name"]] = layout
+
+    return layouts
 
 
 def arguments():
@@ -57,7 +74,8 @@ def main():
     )
 
     logging.info("Starting ImGrott Server")
-    server = ImGrottOnlyForwardTCPServer(settings)
+    layouts = load_layouts(SCHEMAS_DIR)
+    server = ImGrottOnlyForwardTCPServer(settings, layouts)
     server.run()
 
 
