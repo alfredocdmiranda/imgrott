@@ -13,6 +13,7 @@ from imgrott.constants import (
     GROWATT_SERVER_PORT,
 )
 from imgrott.server import ImGrottBaseTCPServer
+from imgrott.services import ExtensionsService
 
 LOGGING_FORMAT = "%(asctime)s | %(levelname)s | %(module)s | %(message)s"
 SCHEMAS_DIR = f"{Path(__file__).parent}/data"
@@ -64,12 +65,27 @@ def arguments():
         action="store_true",
         help="Debug mode. More verbose.",
     )
+    parser.add_argument(
+        "--extension-help",
+        help="The extension you want to print hepl function.",
+    )
+    parser.add_argument(
+        "--extensions",
+        nargs="+",
+        default=[],
+        help="The extension you want to enable.",
+    )
 
     return parser.parse_known_args()
 
 
 def main():
     args, unknown_args = arguments()
+    ext_service = ExtensionsService()
+    if args.extension_help:
+        ext_service.print_help(args.extension_help)
+        exit(0)
+
     settings = Settings.from_argparser(args)
     logging.basicConfig(
         level="DEBUG" if settings.debug else "INFO", format=LOGGING_FORMAT
@@ -77,6 +93,7 @@ def main():
 
     logging.info("Starting ImGrott Server")
     layouts = load_layouts(SCHEMAS_DIR)
+    ext_service.load_extensions(settings.extensions, unknown_args)
     server = ImGrottBaseTCPServer(settings, layouts)
     server.run()
 

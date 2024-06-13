@@ -10,15 +10,22 @@ from imgrott.constants import (
 )
 from imgrott.enums import ConnectionType
 from imgrott.messages import Message
+from imgrott.services import ExtensionsService
 
 logger = logging.getLogger(__name__)
 
 
 class ImGrottBaseTCPServer:
-    def __init__(self, config: Settings, layouts: dict[str, ...]):
+    def __init__(
+        self,
+        config: Settings,
+        layouts: dict[str, ...],
+        extensions_service: ExtensionsService,
+    ):
         self.config = config
         self.forward_to = (self.config.growatt_addr, self.config.growatt_port)
         self.layouts = layouts
+        self.extensions_service = extensions_service
 
         self.server = self._start_server()
         self.input_list = [self.server]
@@ -95,8 +102,11 @@ class ImGrottBaseTCPServer:
 
         match self.connections[sock]["type"]:
             case ConnectionType.DATALOGGER:
-                Message.read(data, self.layouts)
+                message = Message.read(data, self.layouts)
+            case _:
+                message = None
 
+        self.extensions_service.execute(message)
         self._forward_message(sock, data)
 
     def _start_server(self) -> socket.socket:

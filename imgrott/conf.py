@@ -1,3 +1,5 @@
+from typing import ClassVar
+
 from pydantic import Field
 from pydantic_core import PydanticUndefined
 from pydantic_settings import BaseSettings, SettingsConfigDict
@@ -13,17 +15,8 @@ ENV_PREFIX = "IMGROTT_"
 ENV_FILE = "imgrott.env"
 
 
-class Settings(BaseSettings):
-    model_config = SettingsConfigDict(
-        env_prefix=ENV_PREFIX, env_file=ENV_FILE, extra="ignore"
-    )
-    addr: str = Field(DEFAULT_ADDR)
-    port: int = Field(DEFAULT_PORT)
-    growatt_addr: str = Field(GROWATT_SERVER_ADDR)
-    growatt_port: int = Field(GROWATT_SERVER_PORT)
-    forward: bool = Field(True)
-    extensions: list[str] = Field(default_factory=list)
-    debug: bool = Field(False)
+class ImGrottBaseSettings(BaseSettings):
+    extension_name: ClassVar = ""
 
     @classmethod
     def from_argparser(cls, parser):
@@ -60,3 +53,16 @@ class Settings(BaseSettings):
                 kwargs["type"] = field.annotation
                 kwargs["default"] = default
             parser.add_argument(arg_name, **kwargs)
+
+
+class Settings(ImGrottBaseSettings):
+    model_config = SettingsConfigDict(
+        env_prefix=ENV_PREFIX, env_file=ENV_FILE, extra="ignore"
+    )
+    addr: str = Field(DEFAULT_ADDR)
+    port: int = Field(DEFAULT_PORT)
+    growatt_addr: str = Field(GROWATT_SERVER_ADDR)
+    growatt_port: int = Field(GROWATT_SERVER_PORT)
+    forward: bool = Field(True)
+    extensions: list[str] = Field(default_factory=list)
+    debug: bool = Field(False)
