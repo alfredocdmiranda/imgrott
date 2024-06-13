@@ -8,4 +8,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 This version is based in Grott 2.7.8. Please, check its history to know more about it.
-There were only minor organization and documentation stuff done.
