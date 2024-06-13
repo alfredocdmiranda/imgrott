@@ -16,6 +16,7 @@ paho-mqtt = "^2.1.0"
 ruff = "^0.4.4"
 poetry-plugin-export = "^1.8.0"
 pre-commit = "^3.7.0"
+pytest = "^8.2.2"
 
 [tool.poetry.scripts]
 imgrott = "imgrott.main:main"

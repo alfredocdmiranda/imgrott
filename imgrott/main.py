@@ -10,7 +10,7 @@ from imgrott.constants import (
 )
 from imgrott.server import ImGrottOnlyForwardTCPServer
 
-LOGGING_FORMAT = '%(asctime)s | %(levelname)s | %(module)s | %(message)s'
+LOGGING_FORMAT = "%(asctime)s | %(levelname)s | %(module)s | %(message)s"
 
 
 def arguments():
@@ -52,7 +52,9 @@ def arguments():
 def main():
     args, unknown_args = arguments()
     settings = Settings.from_argparser(args)
-    logging.basicConfig(level="DEBUG" if settings.debug else "INFO", format=LOGGING_FORMAT)
+    logging.basicConfig(
+        level="DEBUG" if settings.debug else "INFO", format=LOGGING_FORMAT
+    )
 
     logging.info("Starting ImGrott Server")
     server = ImGrottOnlyForwardTCPServer(settings)

@@ -34,8 +34,10 @@ class ImGrottBaseTCPServer:
                 try:
                     data, addr = sock.recvfrom(CONN_BUFFER_SIZE)
                 except ConnectionResetError as err:
-                    logger.warning(f"It happened some error and the connection was closed: {err}")
-                    data = b''
+                    logger.warning(
+                        f"It happened some error and the connection was closed: {err}"
+                    )
+                    data = b""
 
                 logger.debug(data)
                 if len(data) == 0:
@@ -67,7 +69,9 @@ class ImGrottBaseTCPServer:
             "devices": [],
             "forward": None,
         }
-        logger.info(f'New Connection from "{datalogger_addr[0]}" on port "{datalogger_addr[1]}"')
+        logger.info(
+            f'New Connection from "{datalogger_addr[0]}" on port "{datalogger_addr[1]}"'
+        )
 
         if self.config.forward:
             forward_sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
